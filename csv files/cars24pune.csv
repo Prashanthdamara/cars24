@@ -1,0 +1,636 @@
+,cars_name,cars_brand,model,model_year,car_type,kms,owner,gasoliene_type,price,emi_per_month,zero_downpayment
+0,Volkswagen Polo,Volkswagen,HIGHLINE1.2L PETROL ,2011,Manual,"1,06,730",2nd,Petrol,"19,699",112/month,Zero downpayment
+1,Maruti Swift Dzire,Maruti,VXI 1.2 BS IV ,2015,Manual,"91,778",1st,Petrol,"74,299",",551/month",Zero downpayment
+2,Hyundai Xcent,Hyundai,S 1.2 OPT ,2014,Manual,"64,894",1st,Petrol,"22,699",403/month,Zero downpayment
+3,Ford Ecosport,Ford,1.5TITANIUM TDCI ,2014,Manual,"75,324",1st,Diesel,"92,899",",189/month",Zero downpayment
+4,Maruti Dzire,Maruti,VDI ,2018,Manual,"64,285",1st,Diesel,"41,799",",501/month",Zero downpayment
+5,Maruti Ciaz,Maruti,LPHA 1.3 DDIS SHVS ,2018,Manual,"28,121",1st,Diesel,"62,499",",186/month",Zero downpayment
+6,Honda City,Honda,SV MT PETROL ,2014,Manual,"76,410",1st,Petrol,"12,499",",400/month",Zero downpayment
+7,Maruti Celerio,Maruti,VXI ,2018,Manual,"15,478",1st,Petrol,"94,299",",995/month",Zero downpayment
+8,Hyundai Elite i20,Hyundai,STA 1.2 ,2015,Manual,"39,559",1st,Petrol,"57,099",",392/month",Zero downpayment
+9,Maruti Baleno,Maruti,ZETA 1.2 K12 ,2018,Manual,"23,172",1st,Petrol,"30,599",",027/month",Zero downpayment
+10,Hyundai Elite i20,Hyundai,GNA 1.2 ,2016,Manual,"88,342",2nd,Petrol,"80,299",",684/month",Zero downpayment
+11,Honda Amaze,Honda,1.2 SMT I VTEC ,2013,Manual,"44,940",4th,Petrol,"00,799",916/month,Zero downpayment
+12,Volkswagen Ameo,Volkswagen,HIGHLINE 1.2 ,2016,Manual,"30,483",1st,Petrol,"01,799",",162/month",Zero downpayment
+13,Landrover Freelander 2,Landrover,TD4 SE ,2014,Automatic,"1,17,682",2nd,Diesel,",77,799",",873/month",Zero downpayment
+14,Ford Ecosport,Ford,1.5 TREND TDCI ,2014,Manual,"55,514",1st,Diesel,"31,199",",816/month",Zero downpayment
+15,Ford Ecosport,Ford,1.5TITANIUM TDCI ,2014,Manual,"54,930",2nd,Diesel,"71,699",",717/month",Zero downpayment
+16,Hyundai i20 Active,Hyundai,1.2 S ,2015,Manual,"35,140",1st,Petrol,"75,399",",799/month",Zero downpayment
+17,Hyundai Creta,Hyundai,1.6 SX PLUS VTVT ,2016,Manual,"53,398",1st,Petrol,"94,099",",889/month",Zero downpayment
+18,Skoda Rapid,Skoda,ELEGANCE 1.6 MPFI MT ,2014,Manual,"51,869",2nd,Petrol,"22,799",405/month,Zero downpayment
+19,Tata Hexa,Tata,Varicor 400 XT ,2017,Manual,"99,787",1st,Diesel,"39,299",",894/month",Zero downpayment
+20,Renault Duster,Renault,RXZ DIESEL 110 ,2012,Manual,"1,25,998",2nd,Diesel,"19,299",",552/month",Zero downpayment
+21,Skoda Octavia,Skoda,ELEGANCE 2.0 TDI CR AT ,2015,Automatic,"80,501",3rd,Diesel,"82,499",",631/month",Zero downpayment
+22,Hyundai Creta,Hyundai,1.6 SX PLUS DIESEL ,2016,Manual,"37,790",1st,Diesel,",29,199",",894/month",Zero downpayment
+23,Honda WR-V,Honda,1.2 i-VTEC S MT ,2017,Manual,"25,508",3rd,Petrol,"73,799",",764/month",Zero downpayment
+24,Honda WR-V,Honda,1.2 i-VTEC VX MT ,2017,Manual,"66,607",1st,Petrol,"56,999",",615/month",Zero downpayment
+25,Honda WR-V,Honda,1.2 i-VTEC VX MT ,2017,Manual,"1,00,164",1st,Petrol,"53,599",",539/month",Zero downpayment
+26,Tata NEXON,Tata,XZA+ 1.5 ,2018,,"44,751",1st,Diesel,"94,299",",118/month",Zero downpayment
+27,Volkswagen Vento,Volkswagen,HIGHLINE 1.2 TSI AT ,2017,Automatic,"20,491",1st,Petrol,"11,199",",045/month",Zero downpayment
+28,Ford Ecosport,Ford,1.0 ECOBOOST TITANIUM OPT ,2014,Manual,"38,587",1st,Petrol,"96,899",",278/month",Zero downpayment
+29,Ford Ecosport,Ford,1.5 TITANIUMTDCI OPT ,2014,Manual,"97,858",1st,Diesel,"67,499",",624/month",Zero downpayment
+30,Maruti Vitara Brezza,Maruti,VDI OPT ,2017,Manual,"98,293",1st,Diesel,"45,199",",577/month",Zero downpayment
+31,Hyundai i20 Active,Hyundai,1.2 S ,2017,Manual,"29,389",2nd,Petrol,"06,599",",493/month",Zero downpayment
+32,Maruti S Cross,Maruti,ZETA SHVS ,2017,Manual,"60,754",1st,Diesel,"77,799",",302/month",Zero downpayment
+33,Maruti New  Wagon-R,Maruti,ZXI 1.2 ,2019,Manual,"32,057",1st,Petrol,"10,099",",571/month",Zero downpayment
+34,Maruti New  Wagon-R,Maruti,VXI 1.2L ,2019,Manual,"23,396",1st,Petrol,"73,899",",766/month",Zero downpayment
+35,Hyundai Elite i20,Hyundai,STA 1.2 ,2015,Manual,"74,911",1st,Petrol,"43,899",",099/month",Zero downpayment
+36,Honda WR-V,Honda,1.2 i-VTEC S MT ,2017,Manual,"25,526",2nd,Petrol,"38,199",",196/month",Zero downpayment
+37,Maruti XL6,Maruti,ZETA AT SHVS ,2019,Automatic,"26,384",1st,Petrol,",88,699",",218/month",Zero downpayment
+38,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2016,Manual,"26,049",1st,Petrol,"85,099",",015/month",Zero downpayment
+39,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2016,Manual,"21,057",1st,Petrol,"92,099",",171/month",Zero downpayment
+40,Maruti S Cross,Maruti,ZETA SHVS ,2017,Manual,"69,588",1st,Diesel,"21,899",",507/month",Zero downpayment
+41,Honda WR-V,Honda,1.2 i-VTEC VX MT ,2018,Manual,"17,699",1st,Petrol,"99,999",",796/month",Zero downpayment
+42,Hyundai Verna,Hyundai,1.6 SX VTVT ,2017,Manual,"52,439",1st,Petrol,"94,499",",898/month",Zero downpayment
+43,Maruti Vitara Brezza,Maruti,LDI OPT ,2017,Manual,"70,598",1st,Diesel,"00,699",",587/month",Zero downpayment
+44,Renault TRIBER,Renault,1.0 RXT ,2019,Manual,"9,783",1st,Petrol,"78,599",",095/month",Zero downpayment
+45,Hyundai Verna,Hyundai,1.6 SX (O) CRDI MT ,2017,Manual,"45,244",1st,Diesel,",63,999",",668/month",Zero downpayment
+46,Honda Jazz,Honda,VX  1.2 ,2016,Manual,"46,201",2nd,Petrol,"01,099",",147/month",Zero downpayment
+47,Maruti Baleno,Maruti,DELTA DDIS 190 ,2016,Manual,"1,63,532",1st,Diesel,"18,699",",538/month",Zero downpayment
+48,Maruti Alto K10,Maruti,VXI ,2011,Manual,"57,993",3rd,Petrol,"14,199",765/month,Zero downpayment
+49,Maruti Baleno,Maruti,ZETA DDIS 190 ,2015,Manual,"47,785",1st,Diesel,"01,499",",380/month",Zero downpayment
+50,Maruti Dzire,Maruti,VDI ,2018,Manual,"53,186",1st,Diesel,"10,499",",805/month",Zero downpayment
+51,Hyundai Elite i20,Hyundai,STA 1.2 (O) ,2016,Manual,"44,528",3rd,Petrol,"57,399",",399/month",Zero downpayment
+52,Maruti S Cross,Maruti,ZETA SHVS ,2017,Manual,"80,900",1st,Diesel,"71,699",",390/month",Zero downpayment
+53,Maruti S Cross,Maruti,ZETA SHVS ,2017,Manual,"77,331",1st,Diesel,"77,799",",526/month",Zero downpayment
+54,Honda WR-V,Honda,1.2 i-VTEC VX MT ,2018,Manual,"15,150",1st,Petrol,"36,299",",603/month",Zero downpayment
+55,Maruti Baleno,Maruti,DELTA 1.2 K12 AT ,2016,Automatic,"48,329",2nd,Petrol,"80,599",",915/month",Zero downpayment
+56,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2016,Manual,"78,209",2nd,Petrol,"81,999",",946/month",Zero downpayment
+57,Maruti Dzire,Maruti,ZDI ,2018,Manual,"26,367",1st,Diesel,"99,799",",791/month",Zero downpayment
+58,KIA SELTOS,KIA,HTX AT PETROL ,2019,Automatic,"47,096",1st,Petrol,",73,299",",773/month",Zero downpayment
+59,Maruti Ertiga,Maruti,VDI SHVS LIMITED EDITION ,2018,Manual,"61,862",1st,Diesel,"93,299",",646/month",Zero downpayment
+60,Hyundai VENUE,Hyundai,SX(O) CRDi ,2019,Manual,"16,545",1st,Diesel,",28,299",",098/month",Zero downpayment
+61,Maruti Ciaz,Maruti,ZETA 1.3 DDIS SHVS ,2017,Manual,"68,735",1st,Diesel,"24,699",",121/month",Zero downpayment
+62,Maruti Dzire,Maruti,VDI AMT ,2017,Automatic,"47,978",2nd,Diesel,"83,999",",215/month",Zero downpayment
+63,Mahindra XUV500,Mahindra,W8 FWD ,2013,Manual,"89,310",2nd,Diesel,"02,599",",853/month",Zero downpayment
+64,Hyundai i10,Hyundai,SPORTZ 1.2 AT KAPPA2 ,2013,Automatic,"38,942",2nd,Petrol,"89,799",671/month,Zero downpayment
+65,Hyundai Creta,Hyundai,1.6 CRDI SX PLUS AUTO ,2017,Automatic,"97,226",1st,Diesel,",39,299",",343/month",Zero downpayment
+66,Maruti Ertiga,Maruti,VDI SHVS ,2017,Manual,"79,817",1st,Diesel,"18,299",",203/month",Zero downpayment
+67,Honda Jazz,Honda,VX  1.2 ,2016,Manual,"44,629",1st,Petrol,"44,099",",103/month",Zero downpayment
+68,Skoda Rapid,Skoda,Style 1.5 TDI AT ,2018,Automatic,"38,779",1st,Diesel,",54,599",",459/month",Zero downpayment
+69,Hyundai Verna,Hyundai,1.6 SX VTVT AT (O) ,2018,Automatic,"21,739",1st,Petrol,",41,899",",401/month",Zero downpayment
+70,Ford Ecosport,Ford,1.5 TITANIUM TI VCT ,2017,Manual,"23,017",1st,Petrol,"27,899",",192/month",Zero downpayment
+71,Honda City,Honda,V MT PETROL ,2017,Manual,"26,937",1st,Petrol,"53,399",",759/month",Zero downpayment
+72,Maruti Ciaz,Maruti,LPHA 1.3 DDIS SHVS ,2018,Manual,"50,842",1st,Diesel,"33,299",",536/month",Zero downpayment
+73,Maruti Ciaz,Maruti,VXI PLUS ,2017,Manual,"20,160",1st,Petrol,"22,799",",078/month",Zero downpayment
+74,Maruti IGNIS,Maruti,DELTA 1.2 K12 AMT ,2017,Automatic,"66,426",2nd,Petrol,"59,799",",452/month",Zero downpayment
+75,Renault Kwid,Renault,1.0 RXL AT ,2017,Automatic,"24,226",1st,Petrol,"47,699",734/month,Zero downpayment
+76,Honda City,Honda,VX MT PETROL ,2015,Manual,"55,953",2nd,Petrol,"28,299",",201/month",Zero downpayment
+77,Hyundai Grand i10,Hyundai,SPORTZ 1.2 KAPPA VTVT ,2016,Manual,"45,163",1st,Petrol,"84,199",",771/month",Zero downpayment
+78,Hyundai Elite i20,Hyundai,1.2 SPORTS PLUS VTVT ,2019,Manual,"13,240",1st,Petrol,"40,899",",481/month",Zero downpayment
+79,Toyota Corolla Altis,Toyota,VL AT ,2016,Automatic,"41,402",1st,Petrol,",12,799",",754/month",Zero downpayment
+80,Maruti Swift Dzire,Maruti,VXI 1.2 BS IV ,2016,Manual,"1,85,005",1st,Petrol,"01,099",",147/month",Zero downpayment
+81,Maruti S Cross,Maruti,ZETA SHVS ,2019,Manual,"21,538",1st,Diesel,",56,099",",492/month",Zero downpayment
+82,Hyundai Elite i20,Hyundai,SPORTZ 1.2 ,2017,Manual,"34,776",1st,Petrol,"16,899",",723/month",Zero downpayment
+83,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2019,Manual,"49,816",1st,Petrol,"79,199",",108/month",Zero downpayment
+84,Maruti Ciaz,Maruti,LPHA 1.3 DDIS SHVS ,2017,Manual,"74,981",1st,Diesel,"30,699",",254/month",Zero downpayment
+85,Ford Ecosport,Ford,1.5 TREND TI VCT ,2016,Manual,"23,304",1st,Petrol,"39,199",",219/month",Zero downpayment
+86,Maruti S Cross,Maruti,ZETA 1.3 SHVS ,2018,Manual,"36,002",1st,Diesel,"37,599",",856/month",Zero downpayment
+87,Mahindra XUV500,Mahindra,W10 AT ,2017,Automatic,"55,352",1st,Diesel,",28,599",",778/month",Zero downpayment
+88,Maruti Baleno,Maruti,ZETA 1.2 K12 ,2019,Manual,"19,449",1st,Petrol,"67,099",",064/month",Zero downpayment
+89,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2017,Manual,"37,509",1st,Petrol,"36,599",",161/month",Zero downpayment
+90,Maruti S Cross,Maruti,ZETA 1.3 SHVS ,2018,Manual,"57,462",1st,Diesel,"24,399",",563/month",Zero downpayment
+91,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2017,Manual,"19,149",1st,Petrol,"01,199",",373/month",Zero downpayment
+92,Volkswagen Vento,Volkswagen,HIGHLINE PETROL ,2015,Manual,"85,663",2nd,Petrol,"68,099",",637/month",Zero downpayment
+93,Maruti Ertiga,Maruti,ZDI PLUS SHVS ,2019,Manual,"23,721",1st,Diesel,",26,199",",052/month",Zero downpayment
+94,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2017,Manual,"30,249",1st,Petrol,"53,499",",537/month",Zero downpayment
+95,Ford Ecosport,Ford,1.5 TITANIUM TI VCT ,2018,Manual,"8,925",1st,Petrol,"80,999",",373/month",Zero downpayment
+96,MG HECTOR,MG,SHARP DCT PETROL ,2020,Automatic,"45,986",1st,Petrol,",72,699",",208/month",Zero downpayment
+97,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2017,Manual,"34,763",1st,Petrol,"53,499",",537/month",Zero downpayment
+98,Hyundai Elite i20,Hyundai,STA 1.2 ,2017,Manual,"11,775",1st,Petrol,"58,899",",657/month",Zero downpayment
+99,Hyundai Elite i20,Hyundai,1.2 SPORTS PLUS VTVT ,2019,Manual,"32,623",1st,Petrol,"35,399",",359/month",Zero downpayment
+100,Hyundai Eon,Hyundai,ERA PLUS ,2018,Manual,"18,870",3rd,Petrol,"44,499",663/month,Zero downpayment
+101,Toyota Corolla Altis,Toyota,VL AT ,2018,Automatic,"34,924",1st,Petrol,",59,599",",468/month",Zero downpayment
+102,Maruti Ciaz,Maruti,LPHA 1.3 DDIS SHVS ,2018,Manual,"28,637",1st,Diesel,"15,199",",358/month",Zero downpayment
+103,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2018,Manual,"32,522",1st,Petrol,"23,499",",869/month",Zero downpayment
+104,Hyundai NEW SANTRO,Hyundai,SPORTZ 1.1 ,2019,Manual,"2,639",1st,Petrol,"42,399",",065/month",Zero downpayment
+105,Maruti S Cross,Maruti,LPHA SHVS ,2018,Manual,"64,803",1st,Diesel,",72,399",",855/month",Zero downpayment
+106,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2018,Manual,"9,731",1st,Petrol,"09,199",",551/month",Zero downpayment
+107,Maruti Swift,Maruti,ZXI ,2013,Manual,"62,613",1st,Petrol,"70,299",",462/month",Zero downpayment
+108,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2018,Manual,"41,654",1st,Petrol,"28,799",",987/month",Zero downpayment
+109,Maruti Wagon R 1.0,Maruti,VXI ,2015,Manual,"66,090",1st,Petrol,"86,299",593/month,Zero downpayment
+110,Maruti S Cross,Maruti,ZETA 1.3 SHVS ,2018,,"58,448",2nd,Diesel,"92,299",",849/month",Zero downpayment
+111,Hyundai Elite i20,Hyundai,SPORTZ 1.2 ,2018,Manual,"25,416",2nd,Petrol,"58,199",",641/month",Zero downpayment
+112,MG HECTOR,MG,SHARP DCT PETROL ,2020,Automatic,"24,887",1st,Petrol,",72,799",",659/month",Zero downpayment
+113,Volkswagen Vento,Volkswagen,HIGHLINE TDI AT ,2017,Automatic,"95,513",1st,Diesel,"23,499",",094/month",Zero downpayment
+114,Hyundai Grand i10,Hyundai,STA 1.2 (O) VTVT ,2015,Manual,"84,105",1st,Petrol,"29,699",558/month,Zero downpayment
+115,Maruti Baleno,Maruti,ZETA 1.2 K12 ,2018,Manual,"10,176",1st,Petrol,"28,699",",210/month",Zero downpayment
+116,Hyundai Grand i10,Hyundai,SPORTZ 1.2 KAPPA VTVT ,2015,Manual,"58,570",1st,Petrol,"13,299",194/month,Zero downpayment
+117,Maruti Baleno,Maruti,ZETA 1.2 K12 ,2018,Manual,"19,775",1st,Petrol,"42,199",",510/month",Zero downpayment
+118,Maruti Vitara Brezza,Maruti,ZDI+ DUAL TONE AMT ,2018,Automatic,"38,175",1st,Diesel,"29,799",",683/month",Zero downpayment
+119,Maruti Vitara Brezza,Maruti,VDI OPT ,2018,Manual,"45,490",1st,Diesel,"12,899",",082/month",Zero downpayment
+120,Ford Ecosport,Ford,1.5 TITANIUM TI VCT ,2018,Manual,"15,658",1st,Petrol,"56,299",",823/month",Zero downpayment
+121,Hyundai i20,Hyundai,STA 1.2 ,2013,Manual,"70,423",2nd,Petrol,"56,699",",159/month",Zero downpayment
+122,Maruti Baleno,Maruti,ZETA 1.2 K12 ,2018,Manual,"19,726",1st,Petrol,"56,199",",597/month",Zero downpayment
+123,Hyundai i20,Hyundai,SPORTZ 1.2 VTVT ,2013,Manual,"33,180",3rd,Petrol,"30,599",578/month,Zero downpayment
+124,Maruti Wagon R 1.0,Maruti,VXI AMT ,2015,Automatic,"33,687",1st,Petrol,"81,999",",722/month",Zero downpayment
+125,Maruti Vitara Brezza,Maruti,VDI ,2019,Manual,"42,680",1st,Diesel,"12,599",",076/month",Zero downpayment
+126,Hyundai NEW SANTRO,Hyundai,1.1 SPORTS AMT ,2019,Automatic,"11,373",2nd,Petrol,"55,999",",368/month",Zero downpayment
+127,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2018,Manual,"68,934",1st,Petrol,"35,799",",143/month",Zero downpayment
+128,Hyundai Elite i20,Hyundai,1.4 CRDI ASTA (O) ,2017,Manual,"91,411",1st,Diesel,"80,299",",133/month",Zero downpayment
+129,Maruti Vitara Brezza,Maruti,ZXI ,2020,Manual,"23,940",1st,Petrol,"42,799",",972/month",Zero downpayment
+130,Maruti Vitara Brezza,Maruti,ZDI PLUS DUAL TONE ,2018,Manual,"37,428",1st,Diesel,"77,899",",528/month",Zero downpayment
+131,Maruti Swift Dzire,Maruti,VXI 1.2 BS IV ,2012,Manual,"1,07,841",2nd,Petrol,"82,399",506/month,Zero downpayment
+132,Ford Ecosport,Ford,1.5 TITANIUM PLUS TI VCT AT ,2019,Automatic,"10,102",1st,Petrol,"80,399",",808/month",Zero downpayment
+133,Maruti Wagon R 1.0,Maruti,VXI ,2015,Manual,"32,179",1st,Petrol,"26,099",478/month,Zero downpayment
+134,Hyundai Grand i10,Hyundai,SPORTZ 1.2 KAPPA VTVT ,2017,Manual,"46,375",1st,Petrol,"17,799",",518/month",Zero downpayment
+135,Maruti Swift,Maruti,VDI ,2017,Manual,"23,547",1st,Diesel,"88,699",",095/month",Zero downpayment
+136,Maruti Vitara Brezza,Maruti,ZDI PLUS ,2018,Manual,"65,640",1st,Diesel,"74,399",",451/month",Zero downpayment
+137,Maruti Vitara Brezza,Maruti,ZDI + AMT ,2018,Automatic,"83,103",1st,Diesel,"22,599",",523/month",Zero downpayment
+138,Hyundai Grand i10,Hyundai,STA AT 1.2 KAPPA VTVT ,2015,Automatic,"71,423",1st,Petrol,"51,799",",050/month",Zero downpayment
+139,Ford Ecosport,Ford,1.5 TITANIUM PLUS TI VCT AT ,2019,Automatic,"8,635",1st,Petrol,",40,699",",150/month",Zero downpayment
+140,Ford Ecosport,Ford,1.5 TITANIUM PLUS TI VCT AT ,2019,Automatic,"34,642",1st,Petrol,",60,799",",597/month",Zero downpayment
+141,Hyundai Grand i10,Hyundai,GNA 1.2 KAPPA VTVT ,2018,Manual,"9,646",1st,Petrol,"07,299",",285/month",Zero downpayment
+142,Hyundai Grand i10,Hyundai,Sportz(O) 1.2 MT ,2017,Manual,"30,242",1st,Petrol,"39,199",",994/month",Zero downpayment
+143,Ford Ecosport,Ford,1.5 TITANIUM PLUS TI VCT AT ,2019,Automatic,"22,773",1st,Petrol,"91,799",",062/month",Zero downpayment
+144,Maruti Swift,Maruti,VDI OPT ,2017,Manual,"53,245",2nd,Diesel,"59,399",",668/month",Zero downpayment
+145,Maruti Wagon R 1.0,Maruti,VXI ,2015,Manual,"31,133",2nd,Petrol,"04,999",009/month,Zero downpayment
+146,Tata Tiago,Tata,XZ+ 1.2 Revotron ,2020,Manual,"7,628",1st,Petrol,"89,399",",335/month",Zero downpayment
+147,Maruti Swift Dzire,Maruti,VDI BS IV ,2013,Manual,"74,594",1st,Diesel,"74,699",",559/month",Zero downpayment
+148,Ford Ecosport,Ford,1.5 TITANIUM PLUS TI VCT AT ,2018,Automatic,"44,705",1st,Petrol,"47,999",",088/month",Zero downpayment
+149,Hyundai Grand i10,Hyundai,STA AT 1.2 KAPPA VTVT ,2015,Automatic,"27,641",3rd,Petrol,"31,499",598/month,Zero downpayment
+150,Renault Kwid,Renault,RXT 1.0 EASY-R AT OPTION ,2018,Automatic,"34,297",1st,Petrol,"58,699",",204/month",Zero downpayment
+151,Hyundai Grand i10,Hyundai,SPORTZ 1.2 KAPPA VTVT ,2017,Manual,"12,223",1st,Petrol,"76,999",",835/month",Zero downpayment
+152,Hyundai Grand i10,Hyundai,SPORTZ 1.2 KAPPA VTVT ,2015,Manual,"34,095",2nd,Petrol,"59,299",",217/month",Zero downpayment
+153,Hyundai Grand i10,Hyundai,SPORTZ 1.2 KAPPA VTVT ,2016,Manual,"17,364",1st,Petrol,"41,999",",056/month",Zero downpayment
+154,Maruti Swift,Maruti,VXI ,2014,Manual,"37,288",1st,Petrol,"35,499",687/month,Zero downpayment
+155,Maruti Wagon R 1.0,Maruti,LXI ,2015,Manual,"23,397",1st,Petrol,"49,699",779/month,Zero downpayment
+156,Maruti Celerio,Maruti,VXI ,2018,Manual,"29,458",1st,Petrol,"28,199",",749/month",Zero downpayment
+157,Honda Jazz,Honda,1.2 V MT ,2017,Manual,"15,010",1st,Petrol,"13,999",",658/month",Zero downpayment
+158,Maruti Vitara Brezza,Maruti,VDI ,2019,Manual,"56,615",2nd,Diesel,"38,699",",656/month",Zero downpayment
+159,Hyundai Grand i10,Hyundai,SPORTZ 1.2 KAPPA VTVT ,2016,Manual,"24,234",1st,Petrol,"96,599",",047/month",Zero downpayment
+160,Maruti Wagon R 1.0,Maruti,VXI AMT ,2016,Automatic,"32,658",1st,Petrol,"79,399",",664/month",Zero downpayment
+161,Maruti Alto,Maruti,LXI ,2020,Manual,"2,359",1st,Petrol,"17,899",296/month,Zero downpayment
+162,Maruti Wagon R 1.0,Maruti,VXI ,2014,Manual,"33,103",2nd,Petrol,"56,799",937/month,Zero downpayment
+163,Honda Brio,Honda,1.2 S MT I VTEC ,2015,Manual,"30,642",1st,Petrol,"06,099",033/month,Zero downpayment
+164,Maruti Wagon R 1.0,Maruti,VXI AMT ,2016,Automatic,"36,288",1st,Petrol,"77,899",",631/month",Zero downpayment
+165,Hyundai Grand i10,Hyundai,SPORTZ 1.2 KAPPA VTVT ,2016,Manual,"12,258",2nd,Petrol,"28,699",",761/month",Zero downpayment
+166,Maruti Wagon R 1.0,Maruti,VXI ,2017,Manual,"25,483",1st,Petrol,"75,099",",568/month",Zero downpayment
+167,Hyundai Grand i10,Hyundai,SPORTS 1.2 VTVT ,2018,Manual,"14,840",1st,Petrol,"34,899",",899/month",Zero downpayment
+168,Maruti Alto K10,Maruti,VXI ,2017,Manual,"48,658",1st,Petrol,"49,499",774/month,Zero downpayment
+169,Maruti Alto 800,Maruti,LXI ,2017,Manual,"15,575",1st,Petrol,"90,799",469/month,Zero downpayment
+170,Maruti Alto 800,Maruti,LXI ,2018,Manual,"76,102",1st,Petrol,"50,599",799/month,Zero downpayment
+171,Maruti Alto K10,Maruti,VXI AMT ,2015,Automatic,"58,771",1st,Petrol,"58,099",966/month,Zero downpayment
+172,Hyundai Grand i10,Hyundai,SPORTZ 1.2 KAPPA VTVT ,2016,Manual,"14,765",1st,Petrol,"65,499",",355/month",Zero downpayment
+173,Maruti Celerio,Maruti,ZXI ,2017,Manual,"4,520",1st,Petrol,"52,099",",057/month",Zero downpayment
+174,Maruti Alto K10,Maruti,VXI ,2016,Manual,"2,427",1st,Petrol,"58,199",968/month,Zero downpayment
+175,Maruti Alto K10,Maruti,VXI ,2015,Manual,"12,341",2nd,Petrol,"21,299",147/month,Zero downpayment
+176,Maruti Alto K10,Maruti,VXI AMT ,2015,Automatic,"22,269",1st,Petrol,"80,499",464/month,Zero downpayment
+177,Maruti Alto K10,Maruti,VXI (O) AMT ,2018,Automatic,"14,899",1st,Petrol,"15,599",245/month,Zero downpayment
+178,Maruti Alto 800,Maruti,LXI ,2018,Manual,"27,957",1st,Petrol,"50,599",799/month,Zero downpayment
+179,Maruti Alto 800,Maruti,LXI ,2017,Manual,"22,244",1st,Petrol,"25,699",245/month,Zero downpayment
+180,Maruti Alto 800,Maruti,LXI ,2016,Manual,"27,408",2nd,Petrol,"16,799",047/month,Zero downpayment
+181,Maruti Alto 800,Maruti,LXI ,2017,Manual,"15,555",1st,Petrol,"33,699",423/month,Zero downpayment
+182,Maruti Alto 800,Maruti,LXI ,2017,Manual,"11,917",1st,Petrol,"33,699",423/month,Zero downpayment
+183,Maruti Alto 800,Maruti,LXI ,2018,Manual,"24,140",1st,Petrol,"50,599",799/month,Zero downpayment
+184,Maruti Alto K10,Maruti,VXI (O) AMT ,2017,Automatic,"29,955",1st,Petrol,"81,399",484/month,Zero downpayment
+185,Maruti Alto 800,Maruti,LXI ,2016,Manual,"16,659",2nd,Petrol,"16,799",047/month,Zero downpayment
+186,Maruti Alto K10,Maruti,VXI AMT ,2015,Automatic,"16,097",1st,Petrol,"92,099",722/month,Zero downpayment
+187,Maruti Alto K10,Maruti,VXI (O) AMT ,2017,Automatic,"25,730",1st,Petrol,"10,899",140/month,Zero downpayment
+188,Maruti Alto K10,Maruti,VXI (O) AMT ,2017,Automatic,"18,572",1st,Petrol,"15,199",236/month,Zero downpayment
+189,Hyundai Xcent,Hyundai,SX 1.2 ,2014,Manual,"30,593",1st,Petrol,"46,599",934/month,Zero downpayment
+190,Maruti S Cross,Maruti,ZETA SHVS ,2017,Manual,"69,524",1st,Diesel,",16,399",",609/month",Zero downpayment
+191,Maruti Baleno,Maruti,ZETA 1.2 K12 ,2016,Manual,"36,433",1st,Petrol,"43,599",",317/month",Zero downpayment
+192,Ford Ecosport,Ford,1.5 TITANIUM TI VCT ,2017,Manual,"24,990",1st,Petrol,"14,899",",903/month",Zero downpayment
+193,Honda Amaze,Honda,1.2 SX MT I VTEC ,2016,Manual,"25,484",1st,Petrol,"15,999",",478/month",Zero downpayment
+194,Hyundai i20,Hyundai,GNA O 1.2 ,2012,Manual,"31,533",1st,Petrol,"71,099",255/month,Zero downpayment
+195,Maruti Alto K10,Maruti,VXI (O) AMT ,2018,Automatic,"7,877",1st,Petrol,"52,099",",057/month",Zero downpayment
+196,Maruti Alto 800,Maruti,LXI ,2018,Manual,"8,465",1st,Petrol,"23,699",201/month,Zero downpayment
+197,Hyundai Creta,Hyundai,1.6 SX CRDI ,2018,Manual,"54,743",1st,Diesel,",61,399",",835/month",Zero downpayment
+198,Hyundai i20,Hyundai,GNA O 1.4 CRDI ,2013,Manual,"69,163",1st,Diesel,"91,099",700/month,Zero downpayment
+199,Maruti Wagon R 1.0,Maruti,LXI ,2014,Manual,"49,652",1st,Petrol,"61,399",039/month,Zero downpayment
+200,Maruti Baleno,Maruti,ZETA 1.2 K12 ,2019,Manual,"19,543",1st,Petrol,"96,799",",500/month",Zero downpayment
+201,Ford Figo,Ford,1.4 TITANIUM DURATORQ ,2011,Manual,"1,57,587",1st,Diesel,"73,199",077/month,Zero downpayment
+202,Hyundai VENUE,Hyundai,S MT 1.2 KAPPA ,2020,Manual,547,1st,Petrol,"88,999",",775/month",Zero downpayment
+203,Ford Figo,Ford,1.4 TITANIUM DURATORQ ,2011,Manual,"1,63,778",2nd,Diesel,"60,099",786/month,Zero downpayment
+204,Honda Jazz,Honda,1.2 BASE I VTEC ,2010,Manual,"85,656",3rd,Petrol,"68,599",975/month,Zero downpayment
+205,Tata Manza,Tata,URA ABS QUADRAJET BS IV ,2012,Manual,"68,713",3rd,Diesel,"34,799",223/month,Zero downpayment
+206,Hyundai i20 Active,Hyundai,1.2 S ,2016,Manual,"41,282",1st,Petrol,"47,399",",177/month",Zero downpayment
+207,Mahindra TUV300,Mahindra,T8 AT ,2015,Automatic,"97,261",2nd,Diesel,"51,599",",494/month",Zero downpayment
+208,Toyota Innova Crysta,Toyota,2.8 ZX AT 7 STR ,2016,Automatic,"1,63,292",1st,Diesel,",77,899",",324/month",Zero downpayment
+209,Honda Amaze,Honda,1.5 SMT I DTEC ,2014,Manual,"82,629",1st,Diesel,"41,899",830/month,Zero downpayment
+210,Datsun Redi Go,Datsun,T (O) ,2016,Manual,"14,732",1st,Petrol,"35,199",232/month,Zero downpayment
+211,Honda WR-V,Honda,1.2 i-VTEC VX MT ,2017,Manual,"69,674",1st,Petrol,"93,699",",431/month",Zero downpayment
+212,Hyundai Creta,Hyundai,1.4 S PLUS CRDI ,2016,Manual,"77,030",1st,Diesel,"11,699",",280/month",Zero downpayment
+213,Maruti Wagon R,Maruti,LXI MINOR ,2009,Manual,"83,642",1st,Petrol,"03,099",518/month,Zero downpayment
+214,Maruti Ertiga,Maruti,VXI ,2013,Manual,"33,284",4th,Petrol,"05,199",",238/month",Zero downpayment
+215,Maruti Ciaz,Maruti,ZXI ,2014,Manual,"93,227",1st,Petrol,"89,799",",895/month",Zero downpayment
+216,Toyota Innova,Toyota,2.5 G4 8 STR ,2010,Manual,"2,25,570",2nd,Diesel,"85,699",",804/month",Zero downpayment
+217,Tata NEXON,Tata,XZA+ 1.5 ,2018,Automatic,"11,455",1st,Diesel,",95,399",",367/month",Zero downpayment
+218,Renault Kwid,Renault,RXT 1.0 EASY-R  AT ,2016,Automatic,"20,594",1st,Petrol,"75,799",359/month,Zero downpayment
+219,Maruti Vitara Brezza,Maruti,ZDI PLUS ,2017,Manual,"77,201",1st,Diesel,"24,499",",341/month",Zero downpayment
+220,Renault Duster,Renault,RXL 85PS EXPLORE ,2015,Manual,"57,340",2nd,Diesel,"61,699",",495/month",Zero downpayment
+221,Hyundai Elite i20,Hyundai,STA 1.2 (O) ,2017,Manual,"37,172",1st,Petrol,"87,999",",080/month",Zero downpayment
+222,Maruti Vitara Brezza,Maruti,LDI OPT ,2017,Manual,"32,882",1st,Diesel,"11,299",",822/month",Zero downpayment
+223,Maruti Vitara Brezza,Maruti,VDI OPT ,2017,Manual,"38,464",1st,Diesel,"48,999",",661/month",Zero downpayment
+224,Maruti Ciaz,Maruti,ZDI SHVS ,2015,Manual,"1,23,586",2nd,Diesel,"06,599",",493/month",Zero downpayment
+225,Hyundai Creta,Hyundai,1.6 CRDI SX PLUS AUTO ,2016,Automatic,"1,12,477",1st,Diesel,"47,399",",074/month",Zero downpayment
+226,Maruti Ciaz,Maruti,ZXI AT ,2015,Automatic,"79,783",1st,Petrol,"01,799",",387/month",Zero downpayment
+227,Hyundai i20 Active,Hyundai,1.2 SX ,2017,Manual,"10,754",1st,Petrol,"53,899",",546/month",Zero downpayment
+228,Honda Amaze,Honda,1.5 SX MT I DTEC ,2014,Manual,"54,831",1st,Diesel,"33,099",634/month,Zero downpayment
+229,Hyundai New Elantra,Hyundai,2.0 SX (O) AT ,2017,Automatic,"51,305",1st,Petrol,",98,199",",429/month",Zero downpayment
+230,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2016,Manual,"39,058",1st,Petrol,"78,199",",862/month",Zero downpayment
+231,Honda Amaze,Honda,1.2 VXMT I VTEC ,2013,Manual,"43,089",2nd,Petrol,"95,999",809/month,Zero downpayment
+232,Maruti Vitara Brezza,Maruti,ZDI PLUS DUAL TONE ,2017,Manual,"44,332",1st,Diesel,"09,499",",007/month",Zero downpayment
+233,Hyundai Verna,Hyundai,1.6 SX (O) CRDI MT ,2017,Manual,"21,278",1st,Diesel,",05,199",",809/month",Zero downpayment
+234,Hyundai Elite i20,Hyundai,STA 1.4 CRDI ,2015,Manual,"37,423",1st,Diesel,"05,299",",465/month",Zero downpayment
+235,Honda WR-V,Honda,1.5 i-DTEC VX MT ,2018,Manual,"41,342",1st,Diesel,"37,899",",639/month",Zero downpayment
+236,Volkswagen Ameo,Volkswagen,HIGHLINE DSG 1.5 ,2017,Automatic,"38,177",2nd,Diesel,"47,099",",394/month",Zero downpayment
+237,Maruti Dzire,Maruti,VXI AMT ,2017,Automatic,"67,513",1st,Petrol,"87,999",",080/month",Zero downpayment
+238,Renault TRIBER,Renault,1.0 RXZ ,2019,Manual,"15,524",1st,Petrol,"76,399",",046/month",Zero downpayment
+239,Hyundai Elite i20,Hyundai,SPORTZ 1.2 ,2016,Manual,"35,818",2nd,Petrol,"67,499",",624/month",Zero downpayment
+240,Maruti Baleno,Maruti,DELTA DDIS 190 ,2016,Manual,"96,899",1st,Diesel,"46,799",",163/month",Zero downpayment
+241,Hyundai VENUE,Hyundai,S MT 1.2 KAPPA ,2020,Manual,"4,739",1st,Petrol,"43,799",",770/month",Zero downpayment
+242,Maruti S Cross,Maruti,ZETA 1.3 ,2017,Manual,"32,734",1st,Diesel,"69,399",",115/month",Zero downpayment
+243,Maruti Dzire,Maruti,ZDI Plus ,2018,Manual,"39,000",1st,Diesel,"00,299",",802/month",Zero downpayment
+244,KIA SELTOS,KIA,GTX 1.4 GDI AT PETROL ,2019,Automatic,"20,989",1st,Petrol,",17,999",",767/month",Zero downpayment
+245,Mercedes Benz CLA Class,Mercedes,CLA 200 CDI SPORT ,2015,Automatic,"1,09,405",2nd,Diesel,",80,399",",604/month",Zero downpayment
+246,Maruti Ertiga,Maruti,VDI SHVS ,2018,Manual,"44,460",1st,Diesel,"38,099",",867/month",Zero downpayment
+247,Maruti Celerio,Maruti,VXI ,2015,Manual,"34,813",1st,Petrol,"88,599",644/month,Zero downpayment
+248,Mercedes Benz B Class,Mercedes,B200 CDI SPORT ,2015,Automatic,"81,299",3rd,Diesel,",62,799",",641/month",Zero downpayment
+249,Hyundai Grand i10,Hyundai,GNA 1.2 KAPPA VTVT ,2014,Manual,"61,473",1st,Petrol,"08,999",098/month,Zero downpayment
+250,Tata NEXON,Tata,XM 1.2 ,2020,Manual,"5,136",1st,Petrol,"20,099",",243/month",Zero downpayment
+251,Maruti Celerio,Maruti,VXI AMT ,2014,Automatic,"57,348",2nd,Petrol,"77,499",397/month,Zero downpayment
+252,Maruti IGNIS,Maruti,DELTA 1.2 K12 ,2017,Manual,"41,139",1st,Petrol,"98,999",",100/month",Zero downpayment
+253,Ford Figo Aspire,Ford,1.2 Trend+ Petrol ,2018,Manual,"6,038",1st,Petrol,"92,299",",175/month",Zero downpayment
+254,Tata NEXON,Tata,XM 1.2 ,2020,Manual,"17,788",1st,Petrol,"20,099",",243/month",Zero downpayment
+255,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2016,Manual,"62,883",2nd,Petrol,"34,499",",890/month",Zero downpayment
+256,Renault Duster,Renault,85 PS RXL ,2016,Manual,"1,17,291",1st,Diesel,"43,199",",308/month",Zero downpayment
+257,Honda City,Honda,V AT ,2012,Automatic,"68,421",2nd,Petrol,"52,799",",072/month",Zero downpayment
+258,Hyundai Verna,Hyundai,1.6 SX VTVT AT (O) ,2018,Automatic,"13,691",1st,Petrol,",71,199",",053/month",Zero downpayment
+259,KIA SELTOS,KIA,HTK PLUS AT 1.5 DIESEL ,2020,Automatic,"20,305",1st,Diesel,",80,299",",153/month",Zero downpayment
+260,Hyundai Verna,Hyundai,1.6 SX VTVT (O) ,2018,Manual,"44,428",1st,Petrol,"00,699",",036/month",Zero downpayment
+261,Ford Figo Aspire,Ford,1.2 TITANIUM PETROL ,2017,Manual,"29,632",1st,Petrol,"81,399",",708/month",Zero downpayment
+262,Hyundai Elite i20,Hyundai,1.2 SPORTS PLUS VTVT ,2019,Manual,"12,006",1st,Petrol,"40,899",",481/month",Zero downpayment
+263,Maruti Ciaz,Maruti,VDI+ SHVS ,2016,Manual,"83,002",1st,Diesel,"06,399",",489/month",Zero downpayment
+264,Maruti S Cross,Maruti,SIGMA SHVS ,2018,Manual,"37,002",1st,Diesel,"88,499",",540/month",Zero downpayment
+265,Honda City,Honda,S MT PETROL ,2014,Manual,"56,995",2nd,Petrol,"75,699",",806/month",Zero downpayment
+266,Honda City,Honda,SV MT PETROL ,2014,Manual,"29,681",1st,Petrol,"54,399",",332/month",Zero downpayment
+267,Mahindra XUV500,Mahindra,W7 FWD ,2018,,"34,555",1st,Diesel,",89,699",",689/month",Zero downpayment
+268,Hyundai Elite i20,Hyundai,SPORTZ 1.2 ,2018,Manual,"13,169",1st,Petrol,"58,199",",641/month",Zero downpayment
+269,Maruti Swift,Maruti,VXI ,2014,Manual,"57,989",1st,Petrol,"36,599",712/month,Zero downpayment
+270,Maruti Swift Dzire,Maruti,VXI 1.2 BS IV ,2012,Manual,"37,446",2nd,Petrol,"94,199",769/month,Zero downpayment
+271,Honda Amaze,Honda,1.2 VXMT I VTEC ,2015,Manual,"39,046",2nd,Petrol,"51,599",",046/month",Zero downpayment
+272,Maruti Alto K10,Maruti,VXI ,2016,Manual,"83,597",1st,Petrol,"05,499",796/month,Zero downpayment
+273,Honda Brio,Honda,1.2 S MT I VTEC ,2013,Manual,"59,013",3rd,Petrol,"29,699",334/month,Zero downpayment
+274,Volkswagen Polo,Volkswagen,HIGHLINE1.5L DIESEL ,2016,Manual,"83,283",1st,Diesel,"28,699",",761/month",Zero downpayment
+275,Tata Tiago,Tata,XT 1.05 REVOTORQ ,2019,Manual,"23,411",1st,Diesel,"24,599",",669/month",Zero downpayment
+276,Maruti Swift Dzire,Maruti,VDI BS IV ,2012,Manual,"1,36,082",1st,Diesel,"22,399",396/month,Zero downpayment
+277,Hyundai Creta,Hyundai,1.6 VTVT SX AUTO ,2019,Automatic,"21,909",1st,Petrol,",39,899",",030/month",Zero downpayment
+278,Maruti S Cross,Maruti,LPHA SHVS ,2018,Manual,"62,769",1st,Diesel,"77,699",",748/month",Zero downpayment
+279,Maruti Swift,Maruti,VDI ABS ,2015,Manual,"82,274",1st,Diesel,"55,099",",348/month",Zero downpayment
+280,Ford Ecosport,Ford,1.5 TITANIUM PLUS TI VCT AT ,2018,Automatic,"44,329",1st,Petrol,"02,399",",849/month",Zero downpayment
+281,Maruti Swift,Maruti,VDI AMT ,2018,Automatic,"65,055",1st,Diesel,"83,099",",195/month",Zero downpayment
+282,Toyota Etios Liva,Toyota,GD ,2013,Manual,"46,910",1st,Diesel,"01,499",931/month,Zero downpayment
+283,Maruti Swift Dzire,Maruti,VXI 1.2 BS IV ,2015,Manual,"15,052",2nd,Petrol,"62,499",",288/month",Zero downpayment
+284,Maruti Wagon R 1.0,Maruti,LXI ,2013,Manual,"46,049",1st,Petrol,"45,699",690/month,Zero downpayment
+285,Honda City,Honda,V MT DIESEL ,2014,Manual,"1,13,552",1st,Diesel,"72,499",",735/month",Zero downpayment
+286,Ford Ecosport,Ford,1.5 TDCI TITANIUM PLUS ,2018,Manual,"50,008",1st,Diesel,"27,099",",398/month",Zero downpayment
+287,Maruti Baleno,Maruti,LPHA 1.2 K12 ,2017,Manual,"36,120",1st,Petrol,"38,599",",205/month",Zero downpayment
+288,Maruti Swift,Maruti,VDI ,2013,Manual,"77,854",1st,Diesel,"45,799",917/month,Zero downpayment
+289,Hyundai Eon,Hyundai,SPORTZ ,2016,Manual,"17,900",3rd,Petrol,"14,999",007/month,Zero downpayment
+290,Maruti Swift,Maruti,VXI ,2016,Manual,"14,606",2nd,Petrol,"04,399",",220/month",Zero downpayment
+291,Hyundai Eon,Hyundai,ERA PLUS ,2015,Manual,"36,812",1st,Petrol,"16,899",049/month,Zero downpayment
+292,Maruti Wagon R 1.0,Maruti,VXI ,2014,Manual,"38,699",1st,Petrol,"61,099",032/month,Zero downpayment
+293,Maruti Celerio,Maruti,ZXI OPT AMT ,2016,Automatic,"95,276",2nd,Petrol,"82,599",511/month,Zero downpayment
+294,Hyundai Grand i10,Hyundai,SPORTS 1.2 VTVT ,2016,Manual,"53,881",1st,Petrol,"52,999",",077/month",Zero downpayment
+295,Maruti Wagon R 1.0,Maruti,VXI ,2015,Manual,"40,838",1st,Petrol,"98,399",862/month,Zero downpayment
+296,Honda Jazz,Honda,1.2 V AT ,2018,Automatic,"21,426",1st,Petrol,"30,799",",256/month",Zero downpayment
+297,Ford Ecosport,Ford,1.5 TITANIUM PLUS TI VCT AT ,2018,Automatic,"17,149",1st,Petrol,"63,499",",208/month",Zero downpayment
+298,Maruti Swift Dzire,Maruti,VXI 1.2 BS IV ,2013,Manual,"45,420",2nd,Petrol,"20,899",363/month,Zero downpayment
+299,Maruti Wagon R 1.0,Maruti,VXI ,2016,Manual,"42,670",1st,Petrol,"80,899",473/month,Zero downpayment
+300,Ford Ecosport,Ford,1.5 TREND+ TDCI ,2018,Manual,"17,184",1st,Diesel,"55,799",",037/month",Zero downpayment
+301,Maruti Vitara Brezza,Maruti,ZDI PLUS ,2018,Manual,"28,853",1st,Diesel,"67,599",",524/month",Zero downpayment
+302,Volkswagen Polo,Volkswagen,GT TSI 1.2 PETROL AT ,2017,Automatic,"90,007",1st,Petrol,"77,999",",082/month",Zero downpayment
+303,Maruti Swift Dzire,Maruti,VDI BS IV ,2012,Manual,"1,33,978",1st,Diesel,"03,699",980/month,Zero downpayment
+304,Maruti Vitara Brezza,Maruti,ZDI ,2019,Manual,"48,152",1st,Diesel,"68,999",",330/month",Zero downpayment
+305,Maruti Vitara Brezza,Maruti,ZDI ,2019,Manual,"31,803",1st,Diesel,"04,599",",122/month",Zero downpayment
+306,Maruti Alto K10,Maruti,LXI ,2014,Manual,"29,150",1st,Petrol,"48,999",539/month,Zero downpayment
+307,Maruti Baleno,Maruti,ZETA 1.2 K12 ,2019,Manual,"18,002",1st,Petrol,"24,699",",121/month",Zero downpayment
+308,Hyundai Grand i10,Hyundai,GNA 1.2 KAPPA VTVT ,2016,Manual,"40,829",1st,Petrol,"44,799",894/month,Zero downpayment
+309,MG HECTOR,MG,SHARP DCT PETROL ,2021,Automatic,"6,110",1st,Petrol,",87,099",",426/month",Zero downpayment
+310,Renault Kwid,Renault,RXT 1.0 EASY-R AT OPTION ,2019,Automatic,"16,756",1st,Petrol,"04,599",",225/month",Zero downpayment
+311,Maruti Alto 800,Maruti,LXI ,2016,Manual,"44,444",1st,Petrol,"71,999",050/month,Zero downpayment
+312,Hyundai Grand i10,Hyundai,GNA 1.2 KAPPA VTVT ,2016,Manual,"40,988",1st,Petrol,"58,399",",197/month",Zero downpayment
+313,Maruti Celerio,Maruti,ZXI OPT AMT ,2018,Automatic,"4,321",1st,Petrol,"46,699",",161/month",Zero downpayment
+314,Maruti Celerio,Maruti,ZXI OPT AMT ,2018,Automatic,"27,426",1st,Petrol,"45,599",",137/month",Zero downpayment
+315,Hyundai Grand i10,Hyundai,STA 1.2 (O) VTVT ,2016,Manual,"46,804",1st,Petrol,"92,099",",946/month",Zero downpayment
+316,Maruti Vitara Brezza,Maruti,ZDI + AMT ,2019,Automatic,"69,807",1st,Diesel,"16,099",",378/month",Zero downpayment
+317,Maruti Alto 800,Maruti,LXI ,2016,Manual,"28,544",1st,Petrol,"79,799",224/month,Zero downpayment
+318,Hyundai i10,Hyundai,STA 1.2 AT KAPPA2 WITH SUNROOF ,2013,Automatic,"30,907",3rd,Petrol,"45,199",679/month,Zero downpayment
+319,Maruti Alto 800,Maruti,VXI ,2017,Manual,"21,279",1st,Petrol,"15,999",029/month,Zero downpayment
+320,Maruti Wagon R 1.0,Maruti,VXI ,2014,Manual,"20,071",1st,Petrol,"64,799",115/month,Zero downpayment
+321,Maruti Swift,Maruti,ZDI ,2015,Manual,"64,342",1st,Diesel,"73,699",",762/month",Zero downpayment
+322,Maruti S Cross,Maruti,DELTA 1.6 ,2015,Manual,"75,162",1st,Diesel,"04,899",",456/month",Zero downpayment
+323,MG HECTOR,MG,SHARP DCT PETROL ,2020,Automatic,"8,149",1st,Petrol,",30,699",",498/month",Zero downpayment
+324,Maruti Vitara Brezza,Maruti,ZDI ,2017,Manual,"47,948",1st,Diesel,"77,099",",286/month",Zero downpayment
+325,Hyundai Elite i20,Hyundai,GNA 1.4 CRDI ,2015,Manual,"42,107",1st,Diesel,"06,699",",496/month",Zero downpayment
+326,Maruti XL6,Maruti,ZETA SHVS ,2020,Manual,"38,477",1st,Petrol,"82,499",",855/month",Zero downpayment
+327,Ford Ecosport,Ford,1.5 TITANIUM TI VCT ,2013,Manual,"52,149",1st,Petrol,"01,799",",162/month",Zero downpayment
+328,Jeep Compass,Jeep,2.0 LIMITED ,2017,Manual,"15,696",1st,Diesel,",67,299",",639/month",Zero downpayment
+329,Maruti Ciaz,Maruti,VXI PLUS ,2017,Manual,"30,144",1st,Petrol,"74,799",",011/month",Zero downpayment
+330,Maruti Vitara Brezza,Maruti,ZDI PLUS ,2016,Manual,"74,337",1st,Diesel,"81,699",",388/month",Zero downpayment
+331,Honda Amaze,Honda,1.2 VXMT I VTEC ,2016,Manual,"20,234",1st,Petrol,"77,199",",839/month",Zero downpayment
+332,Hyundai Verna,Hyundai,1.6 SX (O) CRDI MT ,2018,Manual,"57,165",1st,Diesel,",00,799",",487/month",Zero downpayment
+333,Maruti Dzire,Maruti,ZDI Plus AMT ,2017,Automatic,"38,118",2nd,Diesel,"27,799",",189/month",Zero downpayment
+334,Toyota Innova,Toyota,2.5 GX 8 STR BS IV ,2012,Manual,"1,13,429",2nd,Diesel,"36,399",",381/month",Zero downpayment
+335,Maruti Wagon R 1.0,Maruti,VXI ,2015,Manual,"48,198",1st,Petrol,"74,699",335/month,Zero downpayment
+336,Ford Ecosport,Ford,1.5TITANIUM TDCI ,2016,Manual,"31,003",1st,Diesel,"88,699",",320/month",Zero downpayment
+337,Ford Ecosport,Ford,1.5 TDCI TITANIUM PLUS ,2018,Manual,"21,618",1st,Diesel,"92,599",",855/month",Zero downpayment
+338,Maruti Swift,Maruti,VXI ,2017,Manual,"6,595",1st,Petrol,"59,299",",441/month",Zero downpayment
+339,Honda City,Honda,ZX MT I-DTEC ,2017,,"1,36,240",1st,Diesel,"78,999",",328/month",Zero downpayment
+340,Maruti Swift,Maruti,VDI ,2016,Manual,"39,706",1st,Diesel,"27,799",",741/month",Zero downpayment
+341,Maruti Swift,Maruti,VDI ,2017,Manual,"58,861",1st,Diesel,"30,799",",032/month",Zero downpayment
+342,Renault Kwid,Renault,RXT 1.0 EASY-R AT OPTION ,2018,Automatic,"9,095",1st,Petrol,"81,399",",708/month",Zero downpayment
+343,Jeep Compass,Jeep,1.4 LIMITED PLUS AT ,2019,Automatic,"19,830",1st,Petrol,",16,399",",854/month",Zero downpayment
+344,Honda Amaze,Honda,1.2 SMT I VTEC ,2013,Manual,"66,896",2nd,Petrol,"85,099",566/month,Zero downpayment
+345,Maruti Swift,Maruti,VDI ,2014,Manual,"46,205",1st,Diesel,"15,699",",471/month",Zero downpayment
+346,Maruti Swift,Maruti,VDI ,2011,Manual,"1,00,554",1st,Diesel,"44,299",659/month,Zero downpayment
+347,Maruti Baleno,Maruti,LPHA DDIS 190 ,2017,Manual,"48,828",1st,Diesel,"22,899",",856/month",Zero downpayment
+348,Hyundai i20,Hyundai,STA 1.2 ,2009,Manual,"77,860",2nd,Petrol,"74,299",102/month,Zero downpayment
+349,Mahindra Kuv100,Mahindra,K8 D 6 STR ,2016,Manual,"31,880",1st,Diesel,"49,999",",010/month",Zero downpayment
+350,Ford Figo Aspire,Ford,1.5 TITANIUM AT PETROL ,2016,Automatic,"26,527",1st,Petrol,"28,999",",767/month",Zero downpayment
+351,Volkswagen Ameo,Volkswagen,HIGHLINE 1.2 ,2016,Manual,"38,999",1st,Petrol,"01,799",",162/month",Zero downpayment
+352,Mercedes Benz GLC CLASS,Mercedes,220 D SPORT 4MATIC ,2017,Automatic,"52,181",1st,Diesel,",06,099",",991/month",Zero downpayment
+353,Hyundai i20 Active,Hyundai,1.4 SX ,2015,Manual,"33,616",2nd,Diesel,"94,199",",218/month",Zero downpayment
+354,Toyota Innova,Toyota,2.5 V 8 STR ,2011,Manual,"1,21,805",3rd,Diesel,"38,599",",205/month",Zero downpayment
+355,Volkswagen Ameo,Volkswagen,COMFORTLINE 1.2 ,2016,Manual,"51,419",3rd,Petrol,"12,499",176/month,Zero downpayment
+356,Ford Figo Aspire,Ford,1.5 TREND DIESEL ,2015,Manual,"59,038",1st,Diesel,"53,399",",086/month",Zero downpayment
+357,Maruti Ertiga,Maruti,ZDI PLUS SHVS ,2017,Manual,"40,062",2nd,Diesel,"69,999",",353/month",Zero downpayment
+358,Tata Tiago,Tata,XZ 1.2 REVOTRON ,2017,Manual,"65,530",1st,Petrol,"78,499",",644/month",Zero downpayment
+359,Tata Harrier,Tata,XM 2.0L Kryotec ,2020,Manual,"16,874",1st,Diesel,",24,099",",903/month",Zero downpayment
+360,Honda Amaze,Honda,1.2 SMT I VTEC ,2014,Manual,"53,822",1st,Petrol,"09,899",118/month,Zero downpayment
+361,Hyundai Creta,Hyundai,1.6 SX PLUS PETROL ,2017,Manual,"69,215",2nd,Petrol,"84,499",",675/month",Zero downpayment
+362,Maruti Dzire,Maruti,VXI ,2018,Manual,"9,098",1st,Petrol,"27,799",",965/month",Zero downpayment
+363,Maruti Dzire,Maruti,VDI ,2018,Manual,"68,253",1st,Diesel,"21,399",",047/month",Zero downpayment
+364,Maruti Ertiga,Maruti,VDI SHVS ,2016,Manual,"58,796",1st,Diesel,"29,599",",230/month",Zero downpayment
+365,Hyundai VENUE,Hyundai,1.0L Turbo GDI SX(O) MT ,2019,Manual,"8,924",1st,Petrol,"96,799",",173/month",Zero downpayment
+366,Maruti Ciaz,Maruti,ZDI SHVS HYBIRD ,2016,Manual,"66,746",1st,Diesel,"77,499",",071/month",Zero downpayment
+367,Hyundai Verna,Hyundai,FLUIDIC 1.6 SX VTVT ,2014,Manual,"89,996",1st,Petrol,"01,199",",149/month",Zero downpayment
+368,Maruti Ertiga,Maruti,VDI SHVS ,2016,Manual,"99,939",1st,Diesel,"43,499",",539/month",Zero downpayment
+369,Maruti Swift,Maruti,VXI ,2015,Manual,"24,966",1st,Petrol,"56,199",",148/month",Zero downpayment
+370,Volkswagen Polo,Volkswagen,HIGHLINE1.2L PETROL ,2014,Manual,"67,087",1st,Petrol,"49,099",990/month,Zero downpayment
+371,Honda City,Honda,S MT PETROL ,2013,Manual,"1,10,780",1st,Petrol,"11,399",151/month,Zero downpayment
+372,Maruti Swift Dzire,Maruti,ZDI AMT ,2017,Automatic,"63,133",2nd,Diesel,"94,599",",227/month",Zero downpayment
+373,Hyundai i10,Hyundai,SPORTZ 1.2 KAPPA2 ,2012,Manual,"17,645",1st,Petrol,"29,299",325/month,Zero downpayment
+374,Maruti Zen Estilo,Maruti,VXI ,2010,Manual,"37,576",1st,Petrol,"03,299",522/month,Zero downpayment
+375,Hyundai i10,Hyundai,SPORTZ 1.1 IRDE2 ,2015,Manual,"6,023",1st,Petrol,"01,899",940/month,Zero downpayment
+376,Maruti Swift Dzire,Maruti,VXI 1.2 BS IV ,2014,Manual,"30,601",2nd,Petrol,"47,599",957/month,Zero downpayment
+377,Maruti Alto 800,Maruti,LXI ,2014,Manual,"50,585",2nd,Petrol,"49,999",561/month,Zero downpayment
+378,Maruti Swift,Maruti,ZDI ,2017,Manual,"1,42,766",1st,Diesel,"67,199",",617/month",Zero downpayment
+379,Maruti Alto 800,Maruti,LXI ,2016,Manual,"34,714",1st,Petrol,"16,799",047/month,Zero downpayment
+380,Maruti SX4,Maruti,ZDI ,2012,Manual,"1,32,910",1st,Diesel,"45,099",677/month,Zero downpayment
+381,BMW X1,BMW,SDRIVE 20D ,2011,Automatic,"72,092",2nd,Diesel,"83,899",",437/month",Zero downpayment
+382,Maruti Ciaz,Maruti,VDI ,2015,Manual,"1,62,112",1st,Diesel,"29,399",",776/month",Zero downpayment
+383,Tata Hexa,Tata,Varicor 400 XTA ,2017,Automatic,"72,986",1st,Diesel,",54,799",",688/month",Zero downpayment
+384,Tata Hexa,Tata,Varicor 400 XTA ,2017,Automatic,"1,04,089",1st,Diesel,",46,699",",732/month",Zero downpayment
+385,Honda BR-V,Honda,1.5 i- DTEC V ,2016,Manual,"1,01,493",1st,Diesel,"91,699",",386/month",Zero downpayment
+386,Tata NEXON,Tata,XZ+ 1.2 ,2017,Manual,"18,019",2nd,Petrol,"17,599",",963/month",Zero downpayment
+387,Tata Hexa,Tata,Varicor 400 XTA ,2018,Automatic,"63,249",1st,Diesel,",83,899",",560/month",Zero downpayment
+388,Hyundai i20,Hyundai,GNA O 1.2 ,2013,Manual,"33,536",1st,Petrol,"85,599",577/month,Zero downpayment
+389,Ford Figo Aspire,Ford,1.5 TREND DIESEL ,2016,Manual,"71,988",1st,Diesel,"82,199",",726/month",Zero downpayment
+390,Ford Ecosport,Ford,1.5 TITANIUM TI VCT AT ,2014,Automatic,"61,721",1st,Petrol,"52,199",",283/month",Zero downpayment
+391,Hyundai Elite i20,Hyundai,SPORTZ 1.2 ,2016,Manual,"56,445",2nd,Petrol,"31,899",",832/month",Zero downpayment
+392,Hyundai Creta,Hyundai,1.6 E + VTVT ,2016,Manual,"48,182",1st,Petrol,"84,399",",449/month",Zero downpayment
+393,Toyota YARIS,Toyota,VX CVT ,2018,Automatic,"20,272",1st,Petrol,",44,899",",468/month",Zero downpayment
+394,Maruti Celerio X,Maruti,ZXI OPT AMT ,2018,Automatic,"10,634",1st,Petrol,"62,299",",508/month",Zero downpayment
+395,Tata Hexa,Tata,Varicor 400 XTA ,2017,Automatic,"31,722",1st,Diesel,",53,699",",888/month",Zero downpayment
+396,Volkswagen Ameo,Volkswagen,HIGHLINE 1.2 ,2016,Manual,"39,132",2nd,Petrol,"82,999",",744/month",Zero downpayment
+397,Maruti Ertiga,Maruti,ZDI PLUS SHVS ,2017,Manual,"38,797",1st,Diesel,"33,299",",761/month",Zero downpayment
+398,Maruti Vitara Brezza,Maruti,VDI ,2016,Manual,"44,896",1st,Diesel,"88,599",",318/month",Zero downpayment
+399,Ford Ecosport,Ford,1.5TITANIUM TDCI ,2014,Manual,"1,18,719",1st,Diesel,"28,699",",761/month",Zero downpayment
+400,Maruti Vitara Brezza,Maruti,ZDI PLUS DUAL TONE ,2016,Manual,"51,775",1st,Diesel,"97,699",",744/month",Zero downpayment
+401,Jaguar XF,Jaguar,2.2 DIESEL ,2015,Automatic,"46,968",1st,Diesel,",95,799",",395/month",Zero downpayment
+402,Hyundai Elite i20,Hyundai,STA 1.2 ,2014,Manual,"70,365",1st,Petrol,"56,999",",390/month",Zero downpayment
+403,Hyundai GRAND I10 NIOS,Hyundai,sta Petrol ,2019,Manual,"20,235",2nd,Petrol,"80,199",",131/month",Zero downpayment
+404,Maruti New  Wagon-R,Maruti,VXI 1.0 ,2019,Manual,"3,555",1st,Petrol,"32,399",",843/month",Zero downpayment
+405,Maruti New  Wagon-R,Maruti,VXI 1.2L ,2019,Manual,"22,448",1st,Petrol,"88,799",",098/month",Zero downpayment
+406,Tata Tiago,Tata,XZ 1.2 REVOTRON ,2017,Manual,"40,091",1st,Petrol,"14,099",",436/month",Zero downpayment
+407,Maruti Vitara Brezza,Maruti,ZDI PLUS DUAL TONE ,2016,Manual,"59,284",1st,Diesel,"94,499",",673/month",Zero downpayment
+408,Honda Jazz,Honda,1.2 V MT ,2015,Manual,"75,719",1st,Petrol,"90,799",",918/month",Zero downpayment
+409,Maruti Baleno,Maruti,DELTA 1.2 K12 AT ,2016,Automatic,"18,866",1st,Petrol,"80,599",",915/month",Zero downpayment
+410,Jeep Compass,Jeep,2.0 LONGITUDE ,2017,Manual,"40,837",1st,Diesel,",08,199",",100/month",Zero downpayment
+411,Toyota Glanza,Toyota,G MT PETROL ,2020,Manual,"10,801",1st,Petrol,"68,399",",093/month",Zero downpayment
+412,Maruti Ertiga,Maruti,VDI SHVS ,2016,Manual,"55,926",1st,Diesel,"94,199",",667/month",Zero downpayment
+413,Maruti Vitara Brezza,Maruti,ZDI ,2017,Manual,"33,041",1st,Diesel,"79,399",",337/month",Zero downpayment
+414,Toyota Innova,Toyota,2.5 V 8 STR ,2010,Manual,"1,18,544",3rd,Diesel,"00,799",",364/month",Zero downpayment
+415,Maruti Baleno,Maruti,ZETA 1.2 K12 AMT ,2016,Automatic,"66,967",1st,Petrol,"34,599",",116/month",Zero downpayment
+416,Honda City,Honda,VX MT PETROL ,2015,Manual,"43,366",1st,Petrol,"59,599",",897/month",Zero downpayment
+417,Hyundai VENUE,Hyundai,1.0 TURBO GDI SX+ AT ,2019,Automatic,"26,576",2nd,Petrol,",02,499",",524/month",Zero downpayment
+418,Maruti S Cross,Maruti,ZETA SHVS ,2017,Manual,"29,115",1st,Diesel,",28,099",",869/month",Zero downpayment
+419,Hyundai Verna,Hyundai,1.6 SX VTVT ,2018,Manual,"15,509",1st,Petrol,"53,799",",217/month",Zero downpayment
+420,Tata Hexa,Tata,Varicor 400 XTA ,2018,Automatic,"65,476",1st,Diesel,",41,899",",074/month",Zero downpayment
+421,Maruti S Cross,Maruti,ZETA SHVS ,2017,Manual,"59,341",1st,Diesel,",46,799",",285/month",Zero downpayment
+422,Honda City,Honda,V MT PETROL ,2016,Manual,"25,569",1st,Petrol,"64,399",",004/month",Zero downpayment
+423,Maruti Dzire,Maruti,ZDI ,2017,Manual,"40,300",1st,Diesel,"48,599",",652/month",Zero downpayment
+424,Hyundai Elite i20,Hyundai,STA 1.4 CRDI ,2015,Manual,"32,895",1st,Diesel,"32,899",",078/month",Zero downpayment
+425,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2016,Manual,"28,361",2nd,Petrol,"16,899",",723/month",Zero downpayment
+426,Hyundai Grand i10,Hyundai,STA 1.2 VTVT ,2013,Manual,"48,699",2nd,Petrol,"04,599",000/month,Zero downpayment
+427,Hyundai Verna,Hyundai,1.6 SX VTVT ,2018,Manual,"33,340",2nd,Petrol,"74,599",",455/month",Zero downpayment
+428,Renault Kwid,Renault,RXT 1.0 EASY-R AT OPTION ,2019,Automatic,"32,203",1st,Petrol,"64,999",",344/month",Zero downpayment
+429,Honda Jazz,Honda,VX  1.2 ,2016,Manual,"37,677",1st,Petrol,"31,099",",814/month",Zero downpayment
+430,Hyundai Grand i10,Hyundai,STA 1.2 (O) VTVT ,2014,Manual,"75,527",1st,Petrol,"66,099",",368/month",Zero downpayment
+431,Maruti IGNIS,Maruti,DELTA 1.2 K12 ,2017,Manual,"15,775",1st,Petrol,"35,899",",921/month",Zero downpayment
+432,Maruti IGNIS,Maruti,ZETA 1.2 K12 AMT ,2017,Automatic,"49,765",1st,Petrol,"37,299",",952/month",Zero downpayment
+433,Mahindra XUV500,Mahindra,W8 FWD ,2014,Manual,"1,20,399",2nd,Diesel,"43,799",",545/month",Zero downpayment
+434,Ford Ecosport,Ford,1.5 TITANIUM TI VCT AT ,2017,Automatic,"43,669",1st,Petrol,"72,799",",190/month",Zero downpayment
+435,Hyundai Verna,Hyundai,1.6 SX VTVT ,2017,Manual,"27,357",2nd,Petrol,"83,999",",215/month",Zero downpayment
+436,Maruti Wagon R Stingray,Maruti,LXI ,2013,Manual,"22,357",2nd,Petrol,"16,099",031/month,Zero downpayment
+437,Hyundai Verna,Hyundai,1.6 SX VTVT AT (O) ,2018,Automatic,"12,584",1st,Petrol,",62,899",",868/month",Zero downpayment
+438,KIA SELTOS,KIA,HTX 1.5 DIESEL ,2020,Manual,"3,298",1st,Diesel,",45,399",",152/month",Zero downpayment
+439,Maruti IGNIS,Maruti,DELTA 1.2 K12 ,2018,Manual,"12,811",2nd,Petrol,"71,499",",488/month",Zero downpayment
+440,Maruti Celerio,Maruti,VXI AMT ,2015,Automatic,"14,997",1st,Petrol,"20,599",356/month,Zero downpayment
+441,Honda City,Honda,VX CVT PETROL ,2014,Automatic,"43,697",1st,Petrol,"40,799",",254/month",Zero downpayment
+442,Honda City,Honda,SV CVT PETROL ,2014,Automatic,"76,386",1st,Petrol,"27,099",",949/month",Zero downpayment
+443,Renault Duster,Renault,RXZ AMT 110 PS ,2018,Automatic,"36,340",1st,Diesel,"19,699",",458/month",Zero downpayment
+444,Hyundai Elite i20,Hyundai,1.2 SPORTS PLUS VTVT ,2019,Manual,"10,129",1st,Petrol,"40,899",",481/month",Zero downpayment
+445,Hyundai Creta,Hyundai,1.6 CRDI SX PLUS AUTO ,2017,Automatic,"76,915",1st,Diesel,",09,899",",914/month",Zero downpayment
+446,Nissan Micra,Nissan,XL CVT (PETROL) ,2018,Automatic,"21,213",1st,Petrol,"19,099",",772/month",Zero downpayment
+447,Nissan Micra,Nissan,XL CVT (PETROL) ,2018,Automatic,"14,360",1st,Petrol,"28,499",",981/month",Zero downpayment
+448,Honda City,Honda,V MT PETROL ,2015,Manual,"1,50,323",1st,Petrol,"54,799",",341/month",Zero downpayment
+449,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2017,Manual,"53,917",1st,Petrol,"58,599",",426/month",Zero downpayment
+450,Honda City,Honda,VX MT PETROL ,2015,Manual,"64,549",2nd,Petrol,"15,499",",691/month",Zero downpayment
+451,Skoda Rapid,Skoda,MBITION 1.6 MPI MT PLUS ,2016,Manual,"82,342",2nd,Petrol,"81,399",",933/month",Zero downpayment
+452,Maruti Swift,Maruti,LXI ,2018,Manual,"23,414",2nd,Petrol,"16,299",",485/month",Zero downpayment
+453,Hyundai Verna,Hyundai,1.6 SX VTVT AT (O) ,2018,Automatic,"36,965",1st,Petrol,",71,199",",053/month",Zero downpayment
+454,Tata NEXON,Tata,XMA 1.5 ,2019,Manual,"50,154",1st,Diesel,"59,099",",335/month",Zero downpayment
+455,Maruti IGNIS,Maruti,DELTA 1.2 K12 ,2018,Manual,"8,543",2nd,Petrol,"43,199",",083/month",Zero downpayment
+456,MG HECTOR,MG,SHARP DCT PETROL ,2019,Automatic,"13,636",2nd,Petrol,",52,199",",752/month",Zero downpayment
+457,MG HECTOR,MG,SHARP DCT PETROL ,2019,Automatic,"6,399",1st,Petrol,",35,999",",841/month",Zero downpayment
+458,Mahindra XUV500,Mahindra,W10 FWD ,2017,Manual,"56,035",1st,Diesel,",70,999",",273/month",Zero downpayment
+459,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2017,Manual,"56,956",1st,Petrol,"10,499",",580/month",Zero downpayment
+460,Hyundai Elite i20,Hyundai,STA 1.2 AT ,2018,Automatic,"11,839",1st,Petrol,"00,199",",800/month",Zero downpayment
+461,Volkswagen Vento,Volkswagen,HIGHLINE TDI AT ,2016,Automatic,"1,11,708",1st,Diesel,"02,799",",633/month",Zero downpayment
+462,Skoda Superb,Skoda,1.8 TSI LK AT ,2017,Automatic,"22,446",2nd,Petrol,",46,999",",861/month",Zero downpayment
+463,Ford Ecosport,Ford,1.5 TITANIUM PLUS TI VCT AT ,2018,Automatic,"29,959",1st,Petrol,"67,599",",299/month",Zero downpayment
+464,Hyundai Elite i20,Hyundai,SPORTZ 1.2 ,2017,Manual,"14,702",1st,Petrol,"26,399",",934/month",Zero downpayment
+465,Volkswagen Polo,Volkswagen,GT TSI 1.2 PETROL AT ,2016,Automatic,"48,730",2nd,Petrol,"26,999",",947/month",Zero downpayment
+466,Maruti Alto K10,Maruti,VXI ,2012,Manual,"52,465",1st,Petrol,"29,999",116/month,Zero downpayment
+467,Hyundai NEW SANTRO,Hyundai,SPORTZ 1.1 ,2018,Manual,"15,110",1st,Petrol,"28,899",",765/month",Zero downpayment
+468,Honda Brio,Honda,1.2 S MT I VTEC ,2014,Manual,"56,279",1st,Petrol,"50,099",788/month,Zero downpayment
+469,Maruti Wagon R 1.0,Maruti,VXI AMT ,2018,Automatic,"67,022",1st,Petrol,"15,199",236/month,Zero downpayment
+470,Ford Ecosport,Ford,1.5 TITANIUM TI VCT AT ,2015,Automatic,"39,299",2nd,Petrol,"35,599",",139/month",Zero downpayment
+471,Maruti Swift,Maruti,ZXI PLUS AMT ,2018,Automatic,"49,624",1st,Petrol,"97,299",",511/month",Zero downpayment
+472,Hyundai Elite i20,Hyundai,1.4 SPORTS PLUS CRDI ,2019,Manual,"40,106",1st,Diesel,"44,999",",797/month",Zero downpayment
+473,Hyundai Creta,Hyundai,1.6 VTVT SX AUTO ,2018,Automatic,"69,711",1st,Petrol,",73,699",",557/month",Zero downpayment
+474,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2018,Manual,"29,801",1st,Petrol,"08,799",",542/month",Zero downpayment
+475,Maruti Dzire,Maruti,VXI ,2019,Manual,"29,594",1st,Petrol,"02,999",",638/month",Zero downpayment
+476,Skoda Octavia,Skoda,LK 1.8 TSI AT ,2018,Automatic,"7,762",1st,Petrol,",73,199",",668/month",Zero downpayment
+477,Maruti Wagon R 1.0,Maruti,VXI ,2015,Manual,"67,888",1st,Petrol,"95,999",809/month,Zero downpayment
+478,Mahindra XUV500,Mahindra,W11 (O) AT ,2018,Automatic,"44,721",1st,Diesel,",32,799",",096/month",Zero downpayment
+479,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2018,Manual,"10,246",1st,Petrol,"86,599",",273/month",Zero downpayment
+480,Ford Ecosport,Ford,1.0 ECOBOOST TITANIUM SPORTS(SUNROOF) ,2018,Manual,"17,005",2nd,Petrol,"32,799",",750/month",Zero downpayment
+481,Toyota Corolla Altis,Toyota,VL AT ,2017,Automatic,"34,849",2nd,Petrol,",52,999",",872/month",Zero downpayment
+482,Maruti Swift Dzire,Maruti,VDI BS IV ,2016,Manual,"37,551",1st,Diesel,"08,199",",529/month",Zero downpayment
+483,Maruti Vitara Brezza,Maruti,VDI ,2018,Manual,"69,376",1st,Diesel,"97,799",",747/month",Zero downpayment
+484,Ford Ecosport,Ford,1.5 TITANIUM TI VCT ,2019,Manual,"18,284",1st,Petrol,"93,099",",866/month",Zero downpayment
+485,Hyundai Grand i10,Hyundai,SPORTS 1.2 VTVT ,2018,Manual,"50,272",1st,Petrol,"14,499",",445/month",Zero downpayment
+486,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2018,Manual,"30,854",1st,Petrol,"66,299",",821/month",Zero downpayment
+487,Maruti Celerio,Maruti,VXI AMT ,2016,Automatic,"34,999",2nd,Petrol,"87,099",611/month,Zero downpayment
+488,Volkswagen Polo,Volkswagen,GT TSI 1.2 PETROL AT ,2015,Automatic,"50,328",4th,Petrol,"40,799",",030/month",Zero downpayment
+489,Hyundai Grand i10,Hyundai,GNA 1.2 KAPPA VTVT ,2017,Manual,"20,393",1st,Petrol,"94,099",",991/month",Zero downpayment
+490,Maruti Swift Dzire,Maruti,VDI BS IV ,2013,Manual,"87,964",1st,Diesel,"74,699",",559/month",Zero downpayment
+491,Maruti Vitara Brezza,Maruti,ZDI+ DUAL TONE AMT ,2018,Automatic,"32,456",1st,Diesel,",61,399",",610/month",Zero downpayment
+492,Ford Ecosport,Ford,1.5 TITANIUM PLUS TI VCT AT ,2018,Automatic,"20,619",1st,Petrol,"25,699",",592/month",Zero downpayment
+493,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2018,Manual,"18,408",2nd,Petrol,"41,099",",261/month",Zero downpayment
+494,Hyundai Grand i10,Hyundai,STA 1.2 KAPPA VTVT ,2015,Manual,"63,175",3rd,Petrol,"32,099",612/month,Zero downpayment
+495,Hyundai Grand i10,Hyundai,GNA 1.2 KAPPA VTVT ,2015,Manual,"29,762",1st,Petrol,"33,999",654/month,Zero downpayment
+496,Hyundai Grand i10,Hyundai,GNA 1.2 KAPPA VTVT ,2015,Manual,"30,127",1st,Petrol,"33,999",654/month,Zero downpayment
+497,Hyundai Grand i10,Hyundai,SPORTZ 1.2 KAPPA VTVT ,2016,Manual,"33,565",2nd,Petrol,"27,199",503/month,Zero downpayment
+498,Renault Kwid,Renault,RXT 1.0 EASY-R AT OPTION ,2018,Automatic,"8,054",1st,Petrol,"71,399",",486/month",Zero downpayment
+499,Maruti Baleno,Maruti,ZETA 1.2 K12 ,2019,Manual,"10,458",1st,Petrol,"11,999",",838/month",Zero downpayment
+500,Hyundai Grand i10,Hyundai,GNA 1.2 KAPPA VTVT ,2015,Manual,"33,678",1st,Petrol,"33,999",654/month,Zero downpayment
+501,Maruti Alto K10,Maruti,VXI ,2015,Manual,"64,611",1st,Petrol,"29,599",332/month,Zero downpayment
+502,Hyundai Grand i10,Hyundai,SPORTZ (O) 1.2 AT VTVT ,2017,Automatic,"11,203",1st,Petrol,"38,599",",205/month",Zero downpayment
+503,Maruti Alto 800,Maruti,LXI OPT ,2017,Manual,"54,305",1st,Petrol,"02,999",740/month,Zero downpayment
+504,Renault Kwid,Renault,RXT 1.0 EASY-R AT OPTION ,2018,Automatic,"12,257",1st,Petrol,"03,199",969/month,Zero downpayment
+505,Hyundai Grand i10,Hyundai,SPORTZ 1.2 KAPPA VTVT ,2016,Manual,"27,787",1st,Petrol,"94,199",",993/month",Zero downpayment
+506,Honda Jazz,Honda,1.2 V MT ,2017,Manual,"16,487",1st,Petrol,"31,199",",041/month",Zero downpayment
+507,Maruti Alto K10,Maruti,VXI ,2017,Manual,"57,753",1st,Petrol,"43,299",636/month,Zero downpayment
+508,Maruti Wagon R 1.0,Maruti,VXI OPT AMT ,2017,Automatic,"21,674",1st,Petrol,"53,399",",086/month",Zero downpayment
+509,Honda Brio,Honda,1.2 S MT I VTEC ,2015,Manual,"68,884",2nd,Petrol,"94,499",775/month,Zero downpayment
+510,Maruti Alto 800,Maruti,LXI ,2014,Manual,"33,959",2nd,Petrol,"82,999",295/month,Zero downpayment
+511,Maruti Alto K10,Maruti,VXI (O) AMT ,2018,Automatic,"14,908",3rd,Petrol,"94,399",773/month,Zero downpayment
+512,Hyundai Grand i10,Hyundai,SPORTS 1.2 VTVT ,2016,Manual,"30,912",1st,Petrol,"78,099",",635/month",Zero downpayment
+513,Hyundai Grand i10,Hyundai,SPORTZ 1.2 KAPPA VTVT ,2015,Manual,"21,551",1st,Petrol,"45,099",901/month,Zero downpayment
+514,Maruti Alto 800,Maruti,VXI ,2017,Manual,"34,221",1st,Petrol,"15,999",029/month,Zero downpayment
+515,Maruti Alto 800,Maruti,LXI ,2016,Manual,"16,980",2nd,Petrol,"16,799",047/month,Zero downpayment
+516,Maruti Alto K10,Maruti,VXI (O) AMT ,2017,Automatic,"16,226",1st,Petrol,"19,999",343/month,Zero downpayment
+517,Hyundai Elite i20,Hyundai,GNA 1.2 ,2016,Manual,"65,640",1st,Petrol,"02,399",",176/month",Zero downpayment
+518,Maruti Swift Dzire,Maruti,ZXI 1.2 BS IV ,2014,Manual,"31,851",1st,Petrol,"83,399",",753/month",Zero downpayment
+519,Hyundai i20 Active,Hyundai,1.2 S ,2015,Manual,"43,538",1st,Petrol,"76,899",",833/month",Zero downpayment
+520,Maruti Swift,Maruti,VXI AMT ,2018,Automatic,"25,571",1st,Petrol,"77,999",",082/month",Zero downpayment
+521,Tata Hexa,Tata,Varicor 400 XTA ,2017,Automatic,"45,407",2nd,Diesel,",89,599",",911/month",Zero downpayment
+522,Volkswagen Polo,Volkswagen,GT TSI 1.2 PETROL AT ,2018,Automatic,"20,448",1st,Petrol,"94,799",",680/month",Zero downpayment
+523,Maruti Alto K10,Maruti,VXI ,2015,Manual,"18,071",1st,Petrol,"74,799",337/month,Zero downpayment
+524,Hyundai i20,Hyundai,STA 1.2 ,2012,Manual,"49,704",1st,Petrol,"19,999",343/month,Zero downpayment
+525,Honda Jazz,Honda,1.2 S MT ,2016,Manual,"9,011",2nd,Petrol,"23,499",",645/month",Zero downpayment
+526,Jeep Compass,Jeep,2.0 SPORT ,2019,Manual,"10,356",2nd,Diesel,",18,699",",558/month",Zero downpayment
+527,Hyundai Grand i10,Hyundai,SPORTZ (O) 1.2 AT VTVT ,2017,Automatic,"25,194",1st,Petrol,"21,099",",816/month",Zero downpayment
+528,Hyundai i10,Hyundai,SPORTZ 1.2 ,2008,Manual,"30,958",1st,Petrol,"02,599",507/month,Zero downpayment
+529,Hyundai Xcent,Hyundai,SX 1.2 ,2016,Manual,"29,026",1st,Petrol,"73,499",",757/month",Zero downpayment
+530,Skoda Rapid,Skoda,ELEGANCE 1.6 TDI MT ,2012,Manual,"71,140",2nd,Diesel,"65,799",137/month,Zero downpayment
+531,Tata TIGOR,Tata,Revotorq XZ (O) ,2017,Manual,"49,341",1st,Diesel,"43,499",",090/month",Zero downpayment
+532,Toyota Etios,Toyota,G SP ,2011,Manual,"69,994",1st,Petrol,"22,199",167/month,Zero downpayment
+533,Datsun Redi Go,Datsun,T (O) ,2017,Manual,"23,930",2nd,Petrol,"68,099",964/month,Zero downpayment
+534,Datsun Redi Go,Datsun,S 1.0 ,2017,Manual,"10,448",1st,Petrol,"93,299",524/month,Zero downpayment
+535,Volkswagen Polo,Volkswagen,COMFORTLINE 1.2L PETROL ,2011,Manual,"39,815",1st,Petrol,"32,399",394/month,Zero downpayment
+536,Volkswagen Vento,Volkswagen,COMFORTLINE PETROL ,2018,Manual,"23,139",1st,Petrol,"06,999",",727/month",Zero downpayment
+537,Ford Ecosport,Ford,1.5 TREND TDCI ,2014,Manual,"1,31,976",1st,Diesel,"89,899",",898/month",Zero downpayment
+538,Hyundai Creta,Hyundai,1.6 SX CRDI ,2015,Manual,"81,424",1st,Diesel,"00,699",",036/month",Zero downpayment
+539,Hyundai Creta,Hyundai,1.6 CRDI SX PLUS AUTO ,2015,Automatic,"98,743",1st,Diesel,"97,599",",967/month",Zero downpayment
+540,Hyundai Creta,Hyundai,1.6 E + VTVT ,2016,Manual,"24,915",1st,Petrol,"30,799",",481/month",Zero downpayment
+541,Honda City,Honda,SV MT PETROL ,2017,Manual,"23,217",2nd,Petrol,"67,299",",844/month",Zero downpayment
+542,Maruti Ertiga,Maruti,VDI SHVS ,2016,Manual,"69,654",1st,Diesel,"23,399",",316/month",Zero downpayment
+543,Hyundai Creta,Hyundai,1.6 SX PLUS AUTO PETROL ,2016,Automatic,"54,201",1st,Petrol,",34,999",",023/month",Zero downpayment
+544,Hyundai i20 Active,Hyundai,1.2 S ,2017,Manual,"22,017",2nd,Petrol,"91,699",",162/month",Zero downpayment
+545,Hyundai Elite i20,Hyundai,STA 1.2 ,2015,Manual,"49,189",1st,Petrol,"00,099",",349/month",Zero downpayment
+546,Mahindra TUV300,Mahindra,T8 ,2017,Manual,"38,289",1st,Diesel,"66,699",",055/month",Zero downpayment
+547,Hyundai i10,Hyundai,GNA 1.2 ,2010,Manual,"60,805",2nd,Petrol,"43,199",410/month,Zero downpayment
+548,Maruti Ertiga,Maruti,VDI SHVS ,2016,Manual,"31,217",1st,Diesel,"50,699",",699/month",Zero downpayment
+549,Maruti Ciaz,Maruti,ZXI ,2015,Manual,"72,544",2nd,Petrol,"65,799",",586/month",Zero downpayment
+550,Maruti Ertiga,Maruti,ZXI ,2015,Manual,"88,426",1st,Petrol,"72,099",",950/month",Zero downpayment
+551,Hyundai Elite i20,Hyundai,GNA 1.2 ,2014,Manual,"36,694",2nd,Petrol,"62,599",",290/month",Zero downpayment
+552,Maruti S Cross,Maruti,LPHA SHVS ,2017,Manual,"57,002",1st,Diesel,"77,099",",511/month",Zero downpayment
+553,Maruti XL6,Maruti,LPHA SHVS  MT ,2019,Manual,"13,829",1st,Petrol,",29,399",",123/month",Zero downpayment
+554,Renault Duster,Renault,RXL 85PS EXPLORE ,2016,Manual,"51,941",1st,Diesel,"70,199",",908/month",Zero downpayment
+555,Audi A4,Audi,2.0 TDI S LINE ,2013,Automatic,"43,288",1st,Diesel,",13,099",",658/month",Zero downpayment
+556,Skoda Rapid,Skoda,1.5 TDI MT STYLE ,2017,Manual,"56,412",1st,Diesel,"38,999",",663/month",Zero downpayment
+557,Hyundai New Elantra,Hyundai,1.6 SX AT ,2015,Automatic,"68,765",1st,Diesel,"12,099",",065/month",Zero downpayment
+558,Hyundai New Elantra,Hyundai,1.6 SX AT O ,2017,Automatic,"69,070",1st,Diesel,",28,799",",334/month",Zero downpayment
+559,Honda Jazz,Honda,1.2 V AT ,2016,Automatic,"30,836",1st,Petrol,"93,799",",433/month",Zero downpayment
+560,Maruti Dzire,Maruti,VXI AMT ,2017,Automatic,"32,539",1st,Petrol,"47,699",",408/month",Zero downpayment
+561,Maruti Ertiga,Maruti,ZDI PLUS SHVS ,2017,Manual,"31,680",1st,Diesel,"26,499",",609/month",Zero downpayment
+562,Mercedes Benz C Class,Mercedes,250 CDI ELEGANCE AT ,2011,Automatic,"43,438",2nd,Diesel,"67,999",",308/month",Zero downpayment
+563,Honda City,Honda,V MT PETROL ,2016,Manual,"33,949",1st,Petrol,"43,299",",310/month",Zero downpayment
+564,Tata Hexa,Tata,Varicor 400 XTA ,2018,Automatic,"39,905",1st,Diesel,",15,199",",480/month",Zero downpayment
+565,Maruti Baleno,Maruti,ZETA 1.2 K12 ,2015,Manual,"31,277",1st,Petrol,"57,099",",392/month",Zero downpayment
+566,Hyundai VENUE,Hyundai,1.0 TURBO GDI SX+ AT ,2019,Automatic,"3,139",1st,Petrol,",96,999",",627/month",Zero downpayment
+567,Hyundai Verna,Hyundai,FLUIDIC 1.6 SX VTVT ,2014,Manual,"46,960",1st,Petrol,"31,899",",832/month",Zero downpayment
+568,Maruti Celerio,Maruti,VXI AMT ,2015,Automatic,"46,943",1st,Petrol,"96,399",818/month,Zero downpayment
+569,BMW 3 Series,BMW,320D LUXURYLINE ,2014,Automatic,"75,353",3rd,Diesel,",79,999",",922/month",Zero downpayment
+570,KIA SELTOS,KIA,HTK 1.5 PETROL ,2019,Manual,"12,872",1st,Petrol,",75,399",",922/month",Zero downpayment
+571,Maruti IGNIS,Maruti,DELTA 1.2 K12 ,2017,Manual,"24,753",1st,Petrol,"04,299",",218/month",Zero downpayment
+572,Maruti Celerio,Maruti,VXI ,2014,Manual,"33,246",1st,Petrol,"08,399",085/month,Zero downpayment
+573,Jeep Compass,Jeep,2.0 LIMITED ,2017,Manual,"70,650",2nd,Diesel,",68,799",",673/month",Zero downpayment
+574,Honda Amaze,Honda,1.2 V CVT I VTEC ,2018,Automatic,"4,494",1st,Petrol,"90,199",",578/month",Zero downpayment
+575,Hyundai Elite i20,Hyundai,SPORTZ 1.2 ,2017,Manual,"63,089",1st,Petrol,"86,899",",055/month",Zero downpayment
+576,BMW 3 Series,BMW,320D LUXURYLINE ,2015,Automatic,"95,239",1st,Diesel,",25,799",",941/month",Zero downpayment
+577,Maruti IGNIS,Maruti,ZETA 1.2 K12 ,2018,Manual,"19,526",1st,Petrol,"64,199",",550/month",Zero downpayment
+578,Toyota Innova,Toyota,2.5 VX 7 STR BS IV ,2015,Manual,"1,48,013",1st,Diesel,",14,799",",574/month",Zero downpayment
+579,Honda Brio,Honda,1.2 S MT I VTEC ,2012,Manual,"33,740",1st,Petrol,"09,799",891/month,Zero downpayment
+580,Ford Ecosport,Ford,1.5 TITANIUM TI VCT ,2015,Manual,"64,392",1st,Petrol,"21,299",",596/month",Zero downpayment
+581,Hyundai i20,Hyundai,GNA O 1.2 ,2014,Manual,"80,371",2nd,Petrol,"91,499",709/month,Zero downpayment
+582,Hyundai i20,Hyundai,GNA O 1.2 ,2012,Manual,"94,562",3rd,Petrol,"60,599",021/month,Zero downpayment
+583,Honda City,Honda,S MT PETROL ,2014,Manual,"1,46,906",1st,Petrol,"61,399",",264/month",Zero downpayment
+584,Honda City,Honda,1.5 E MT PETROL ,2012,Manual,"80,005",2nd,Petrol,"25,799",472/month,Zero downpayment
+585,Maruti IGNIS,Maruti,ZETA 1.2 K12 AMT ,2018,Automatic,"9,217",1st,Petrol,"28,299",",976/month",Zero downpayment
+586,Maruti Ciaz,Maruti,VDI+ SHVS ,2016,Manual,"1,09,630",1st,Diesel,"88,899",",100/month",Zero downpayment
+587,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2019,Manual,"16,002",1st,Petrol,"73,399",",979/month",Zero downpayment
+588,Tata Tiago,Tata,XZA 1.2 REVOTRON ,2018,Automatic,"5,297",2nd,Petrol,"67,099",",615/month",Zero downpayment
+589,Maruti Swift,Maruti,VDI ,2012,Manual,"95,736",1st,Diesel,"14,999",231/month,Zero downpayment
+590,Tata Tiago,Tata,XZ 1.2 REVOTRON ,2018,Manual,"13,066",2nd,Petrol,"94,299",",995/month",Zero downpayment
+591,Toyota Fortuner,Toyota,3.0 AT 4X2 ,2016,Automatic,"1,71,099",1st,Diesel,",29,399",",470/month",Zero downpayment
+592,Volkswagen Jetta,Volkswagen,HIGHLINE TDI AT ,2015,Automatic,"92,595",1st,Diesel,"86,299",",940/month",Zero downpayment
+593,Volkswagen Polo,Volkswagen,HIGHLINE1.5L DIESEL ,2018,Manual,"55,057",1st,Diesel,"18,299",",978/month",Zero downpayment
+594,MG HECTOR,MG,SHARP DCT PETROL ,2020,Automatic,"11,998",1st,Petrol,",28,899",",458/month",Zero downpayment
+595,Maruti Baleno,Maruti,DELTA 1.2 K12 ,2017,Manual,"18,994",1st,Petrol,"76,899",",833/month",Zero downpayment
+596,Toyota Etios Liva,Toyota,GD SP ,2013,Manual,"1,25,798",3rd,Diesel,"29,399",327/month,Zero downpayment
+597,Hyundai i10,Hyundai,ERA 1.1 IRDE ,2013,Manual,"68,586",1st,Petrol,"75,499",128/month,Zero downpayment
+598,Maruti Swift,Maruti,ZXI ,2018,Manual,"52,773",1st,Petrol,"52,199",",508/month",Zero downpayment
+599,Honda City,Honda,V AT ,2012,Automatic,"41,237",1st,Petrol,"19,199",",549/month",Zero downpayment
+600,Hyundai Eon,Hyundai,SPORTZ ,2016,Manual,"33,143",1st,Petrol,"22,899",183/month,Zero downpayment
+601,Maruti Swift Dzire,Maruti,VXI 1.2 BS IV ,2016,Manual,"25,747",1st,Petrol,"01,099",",147/month",Zero downpayment
+602,Hyundai NEW SANTRO,Hyundai,SPORTZ 1.1 ,2018,Manual,"29,488",1st,Petrol,"28,899",",765/month",Zero downpayment
+603,Hyundai Elite i20,Hyundai,STA 1.2 ,2018,Manual,"23,930",1st,Petrol,"56,599",",606/month",Zero downpayment
+604,Tata Nano,Tata,XT TWIST ,2015,Manual,"36,322",1st,Petrol,"03,599",529/month,Zero downpayment
+605,Maruti Swift,Maruti,VXI ,2014,Manual,"21,610",1st,Petrol,"89,399",",886/month",Zero downpayment
+606,Hyundai i20,Hyundai,STA 1.4 CRDI ,2013,Manual,"99,004",1st,Diesel,"38,399",752/month,Zero downpayment
+607,Maruti Swift,Maruti,ZDI ,2014,Manual,"27,785",1st,Diesel,"36,799",",941/month",Zero downpayment
+608,Volkswagen Polo,Volkswagen,GT TSI 1.2 PETROL AT ,2015,Automatic,"32,889",2nd,Petrol,"73,799",",764/month",Zero downpayment
+609,Hyundai Eon,Hyundai,GNA PLUS ,2017,Manual,"34,748",1st,Petrol,"77,399",395/month,Zero downpayment
+610,Maruti Swift,Maruti,VXI ,2018,Manual,"3,345",2nd,Petrol,"58,299",",419/month",Zero downpayment
+611,Renault Kwid,Renault,1.0 RXT ,2017,Manual,"12,462",1st,Petrol,"66,399",150/month,Zero downpayment
+612,Maruti Vitara Brezza,Maruti,ZDI PLUS ,2018,Manual,"32,513",1st,Diesel,"49,199",",114/month",Zero downpayment
+613,Maruti Wagon R 1.0,Maruti,VXI ,2016,Manual,"60,108",1st,Petrol,"94,599",778/month,Zero downpayment
+614,Volkswagen Polo,Volkswagen,GT TSI 1.2 PETROL AT ,2017,Automatic,"41,218",2nd,Petrol,"28,299",",201/month",Zero downpayment
+615,Hyundai Grand i10,Hyundai,STA 1.2 (O) VTVT ,2016,Manual,"86,068",1st,Petrol,"53,799",",095/month",Zero downpayment
+616,Maruti Swift,Maruti,VXI ,2013,Manual,"45,012",1st,Petrol,"94,399",773/month,Zero downpayment
+617,Hyundai Grand i10,Hyundai,GNA 1.2 KAPPA VTVT ,2016,Manual,"13,354",1st,Petrol,"58,399",",197/month",Zero downpayment
+618,Maruti Vitara Brezza,Maruti,VDI ,2019,Manual,"34,551",1st,Diesel,"38,699",",656/month",Zero downpayment
+619,Maruti Swift,Maruti,ZXI ,2013,Manual,"98,145",1st,Petrol,"26,799",494/month,Zero downpayment
+620,Hyundai Grand i10,Hyundai,Sportz1.2 CRDI ,2017,Manual,"67,690",1st,Diesel,"39,499",",001/month",Zero downpayment
+621,Renault Kwid,Renault,1.0 CLIMBER OPT AMT ,2019,Automatic,"24,701",1st,Petrol,"86,199",",815/month",Zero downpayment
+622,Maruti Wagon R 1.0,Maruti,VXI AMT ,2018,Automatic,"31,281",2nd,Petrol,"48,599",979/month,Zero downpayment
+623,Maruti Wagon R 1.0,Maruti,LXI CNG ,2018,Manual,"51,149",1st,Petrol,"87,099",",835/month",Zero downpayment
+624,Hyundai Grand i10,Hyundai,STA AT 1.2 KAPPA VTVT ,2015,Automatic,"31,497",2nd,Petrol,"54,399",",108/month",Zero downpayment
+625,Hyundai Grand i10,Hyundai,SPORTZ (O) 1.2 AT VTVT ,2017,Automatic,"18,274",1st,Petrol,"19,599",",783/month",Zero downpayment
+626,Maruti Celerio,Maruti,VXI AMT ,2018,Automatic,"20,753",2nd,Petrol,"72,499",",510/month",Zero downpayment
+627,Honda Brio,Honda,1.2 VX AT I VTEC ,2017,Automatic,"14,653",1st,Petrol,"73,599",",759/month",Zero downpayment
+628,Maruti Celerio,Maruti,ZDI ,2016,Manual,"30,840",1st,Diesel,"08,299",082/month,Zero downpayment
+629,Hyundai Grand i10,Hyundai,1.2 ASTA (O) AT ,2016,Automatic,"11,819",2nd,Petrol,"18,899",",543/month",Zero downpayment
+630,Maruti Swift,Maruti,VDI ,2013,Manual,"35,212",1st,Diesel,"32,799",627/month,Zero downpayment
+631,Maruti Eeco,Maruti,5 STR WITH AC PLUSHTR ,2018,Manual,"23,573",1st,Petrol,"27,399",507/month,Zero downpayment
+632,Maruti Alto 800,Maruti,LXI ,2018,Manual,"33,004",1st,Petrol,"09,699",889/month,Zero downpayment
+633,Maruti Alto K10,Maruti,LXI CNG (O) ,2019,Manual,"57,875",1st,Petrol,"31,299",594/month,Zero downpayment
+634,Maruti Alto 800,Maruti,VXI ,2018,Manual,"20,369",1st,Petrol,"23,199",189/month,Zero downpayment

@@ -1,0 +1,14 @@
+,cars_name,cars_brand,model,model_year,car_type,kms,owner,gasoliene_type,price,emi_per_month,zero_downpayment
+0,Toyota Etios Liva,Toyota,GD ,2012,Manual,"1,40,512",1st,Diesel,"94,599",778/month,Zero downpayment
+1,Mahindra TUV300,Mahindra,T 10 MT Dual Tone ,2018,Manual,"89,462",1st,Diesel,"79,599",",342/month",Zero downpayment
+2,Hyundai Eon,Hyundai,ERA PLUS ,2017,Manual,"50,865",2nd,Petrol,"28,199",301/month,Zero downpayment
+3,Hyundai VENUE,Hyundai,1.0L Turbo GDI SX(O) MT ,2019,Manual,"14,515",1st,Petrol,",19,699",",683/month",Zero downpayment
+4,Tata Tiago,Tata,XZ 1.2 REVOTRON ,2018,Manual,"33,555",1st,Petrol,"17,999",",523/month",Zero downpayment
+5,Maruti Ritz,Maruti,VXI BS IV ,2013,Manual,"86,965",1st,Petrol,"46,699",712/month,Zero downpayment
+6,Hyundai Grand i10,Hyundai,GNA 1.2 KAPPA VTVT ,2015,Manual,"50,655",2nd,Petrol,"22,899",407/month,Zero downpayment
+7,Maruti Baleno,Maruti,ZETA 1.2 K12 ,2019,Manual,"8,872",2nd,Petrol,"01,099",",596/month",Zero downpayment
+8,Maruti Swift,Maruti,VXI ,2017,Manual,"46,913",1st,Petrol,"62,399",",510/month",Zero downpayment
+9,Maruti Wagon R 1.0,Maruti,VXI ,2018,Manual,"35,927",1st,Petrol,"68,799",",428/month",Zero downpayment
+10,Maruti Alto K10,Maruti,VXI AMT ,2016,Automatic,"49,434",3rd,Petrol,"45,099",677/month,Zero downpayment
+11,Honda Amaze,Honda,1.2 SAT I VTEC ,2014,Automatic,"36,265",3rd,Petrol,"57,000",",166/month",Zero downpayment
+12,Maruti Zen,Maruti,LX ,1997,Manual,"57,258",8th,Petrol,",000",9/month,Zero downpayment
